@@ -2,17 +2,17 @@
 
 > :exclamation: Objectifs
 >
-> - [ ] Characterize six different roles that are involved in a business process, and their associated tasks
+> - [ ] Caractériser six rôles différents impliqués dans un processus métier et leurs tâches associées
 
 ## :closed_book: KEY ROLES INVOLVED IN A BUSINESS PROCESS
 
-Les rôles clés impliqués dans un processus métier peuvent être classés en trois groupes : participants principaux, participants secondaires et parties prenantes. L'exemple suivant, « Rôles impliqués dans un processus de commande d'ordinateurs portables », en donne un aperçu simple.
+Les rôles clés impliqués dans un processus métier peuvent être classés en trois groupes : **participants principaux**, **participants secondaires** et **parties prenantes**. L'exemple suivant, « Rôles impliqués dans un processus de commande d'ordinateurs portables », en donne un aperçu simple.
 
 ### LET'S SHED SOME MORE LIGHT ON THE INVOLVED ROLES:
 
 #### :small_red_triangle_down: Process Owner :
 
-Responsable global d'un processus d'un point de vue métier. Doit déclencher des ajustements de processus en cas de dysfonctionnement.
+Responsable global d'un processus d'un point de vue métier. Doit déclencher des **ajustements de processus** en cas de **dysfonctionnement**.
 
 #### :small_red_triangle_down: Process Initiator :
 
@@ -20,7 +20,7 @@ Lance le processus en effectuant une action, que ce soit consciemment ou non.
 
 #### :small_red_triangle_down: Decision Maker :
 
-Il est responsable de la prise de décisions qui influencent l'orientation du processus. Les approbations ou les rejets entraînent naturellement des résultats différents.
+Il est responsable de la **prise de décisions** qui influencent l'**orientation** du processus. Les **approbations** ou les **rejets** entraînent naturellement des résultats différents.
 
 #### :small_red_triangle_down: Process Participants :
 

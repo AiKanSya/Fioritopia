@@ -4,7 +4,7 @@
 >
 > - [ ] Choisissez le Path approprié pour SAP BPA en fonction du point de départ du client
 
-## :closed_book: LE PATH VERS BUILD PROCESS AUTOMATION
+## :closed_book: THE PATH TO BUILD PROCESS AUTOMATION
 
 ![](./assets/01_Path_to_SPA_001.png)
 
