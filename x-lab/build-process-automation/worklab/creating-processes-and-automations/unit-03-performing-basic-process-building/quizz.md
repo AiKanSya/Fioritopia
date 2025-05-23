@@ -1,6 +1,6 @@
-# ☼ UNIT 3 - QUIZZ
+# 🌸 UNIT 3 - QUIZZ
 
-## :small_red_triangle_down: After logging into the SAP Build Process Automation Homepage, where do you have to navigate to be able to create a process project?
+## 💮 After logging into the SAP Build Process Automation Homepage, where do you have to navigate to be able to create a process project?
 
 _Choose the correct answer._
 
@@ -25,7 +25,7 @@ _Choose the correct answer._
 
 </details>
 
-## :small_red_triangle_down: Which configurations are necessary for process conditions?
+## 💮 Which configurations are necessary for process conditions?
 
 _There are three correct answers._
 
@@ -54,7 +54,7 @@ _There are three correct answers._
 
 </details>
 
-## :small_red_triangle_down: Which sequence of steps needs to be followed to deploy your created Process?
+## 💮 Which sequence of steps needs to be followed to deploy your created Process?
 
 _Choose the correct answer._
 
@@ -79,7 +79,7 @@ _Choose the correct answer._
 
 </details>
 
-## :small_red_triangle_down: Which types of forms can be added to your business process?
+## 💮 Which types of forms can be added to your business process?
 
 _There are three correct answers._
 
@@ -108,7 +108,7 @@ _There are three correct answers._
 
 </details>
 
-## :small_red_triangle_down: Where can you use SAP Build Process Automation?
+## 💮 Where can you use SAP Build Process Automation?
 
 _Choose the correct answer._
 
@@ -133,7 +133,7 @@ _Choose the correct answer._
 
 </details>
 
-## :small_red_triangle_down: With SAP Build Process Automation, you can create and amend Sales Order processes only.
+## 💮 With SAP Build Process Automation, you can create and amend Sales Order processes only.
 
 _Choose the correct answer._
 
@@ -150,7 +150,7 @@ _Choose the correct answer._
 
 </details>
 
-## :small_red_triangle_down: What are the benefits of using forms?
+## 💮 What are the benefits of using forms?
 
 _There are three correct answers._
 
@@ -179,7 +179,7 @@ _There are three correct answers._
 
 </details>
 
-## :small_red_triangle_down: Where can an end user work on forms?
+## 💮 Where can an end user work on forms?
 
 _Choose the correct answer._
 
@@ -204,7 +204,7 @@ _Choose the correct answer._
 
 </details>
 
-## :small_red_triangle_down: What are the different ways in which forms can be used?
+## 💮 What are the different ways in which forms can be used?
 
 _There are two correct answers._
 
@@ -229,7 +229,7 @@ _There are two correct answers._
 
 </details>
 
-## :small_red_triangle_down:
+## 💮
 
 What are you able to achieve with SAP Build Process Automation?
 

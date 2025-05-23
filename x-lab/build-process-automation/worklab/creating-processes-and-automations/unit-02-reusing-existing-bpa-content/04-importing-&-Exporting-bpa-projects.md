@@ -1,10 +1,10 @@
-# ♠ 4 [IMPORTING AND EXPORTING SAP BUILD PROCESS AUTOMATION PROJECTS](link)
+# 🌸 4 [IMPORTING AND EXPORTING SAP BUILD PROCESS AUTOMATION PROJECTS](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/importing-and-exporting-sap-build-process-automation-projects_e1768046-fbfc-4808-a092-4ffb10abdb85)
 
-> :exclamation: Objectifs
+> 🌺 Objectifs
 >
 > - [ ] Importez et exportez des projets SAP Build Process Automation lorsque cela est nécessaire pour les partager ou les réutiliser dans d'autres comptes SAP Business Technology Platformojects when required to share or reuse them in other SAP Business Technology Platform accounts
 
-## :closed_book: IMPORT AND EXPORT SAP BUILD PROCESS AUTOMATION PROJECTS
+## 🌸 IMPORT AND EXPORT SAP BUILD PROCESS AUTOMATION PROJECTS
 
 ### BUSINESS SCENARIO
 

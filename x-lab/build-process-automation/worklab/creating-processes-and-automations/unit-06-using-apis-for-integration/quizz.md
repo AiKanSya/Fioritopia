@@ -1,6 +1,6 @@
-# ☼ UNIT 6 - QUIZZ
+# 🌸 UNIT 6 - QUIZZ
 
-## :small_red_triangle_down: What does a REST client do?
+## 💮 What does a REST client do?
 
 _Choose the correct answer._
 
@@ -25,7 +25,7 @@ _Choose the correct answer._
 
 </details>
 
-## :small_red_triangle_down: In SAP Business Accelerator Hub, you can find the REST APIs for SAP Build Process Automation.
+## 💮 In SAP Business Accelerator Hub, you can find the REST APIs for SAP Build Process Automation.
 
 _Choose the correct answer._
 

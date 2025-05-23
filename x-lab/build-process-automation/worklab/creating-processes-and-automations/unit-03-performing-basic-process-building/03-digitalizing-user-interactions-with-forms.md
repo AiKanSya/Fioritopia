@@ -1,12 +1,12 @@
-# ♠ 3 [DIGITALIZING USER INTERACTIONS WITH FORMS](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/digitalizing-user-interactions-with-forms_d0e78947-8cff-45f0-9b85-d82c1ed0394e)
+# 🌸 3 [DIGITALIZING USER INTERACTIONS WITH FORMS](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/digitalizing-user-interactions-with-forms_d0e78947-8cff-45f0-9b85-d82c1ed0394e)
 
-> :exclamation: Objectifs
+> 🌺 Objectifs
 >
 > - [ ] Ajoutez des formulaires interactifs dans le processus que vous créez
 >
 > - [ ] Définir différents formulaires pour les déclencheurs, les approbations et les notifications
 
-## :closed_book: DIGITALIZE USER INTERACTIONS WITH FORMS
+## 🌸 DIGITALIZE USER INTERACTIONS WITH FORMS
 
 Vous avez probablement constaté que de nombreuses tâches dans votre environnement professionnel, telles que les _révisions_, les _approbations_ et les _validations_, sont encore attribuées aux employés par courrier électronique. Ces tâches sont essentielles à tout **processus métier**, mais elles sont inefficaces et lentes.
 
@@ -46,7 +46,7 @@ Vous disposez de différentes options pour configurer les formulaires d'approbat
 
   ![](./assets/SAP400_01_U3L4_05_scr.png)
 
-## :closed_book: CREATE A FORM TO TRIGGER A BUSINESS PROCESS
+## 🌸 CREATE A FORM TO TRIGGER A BUSINESS PROCESS
 
 ### BUSINESS SCENARIO
 
@@ -156,7 +156,7 @@ Une fenêtre contextuelle s'ouvre. Vous disposez des options suivantes :
 
 Vous avez maintenant créé avec succès un formulaire pour déclencher un **processus métier**.
 
-## :closed_book: CREATE AND CONFIGURE AN APPROVAL FORM
+## 🌸 CREATE AND CONFIGURE AN APPROVAL FORM
 
 ### BUSINESS SCENARIO
 
@@ -320,7 +320,7 @@ Une fenêtre contextuelle s'ouvre. Vous disposez des options suivantes :
 
 Vous avez maintenant créé et configuré avec succès un formulaire d’approbation.
 
-## :closed_book: CREATE AND CONFIGURE A FORM NOTIFICATIONS
+## 🌸 CREATE AND CONFIGURE A FORM NOTIFICATIONS
 
 ### EXERCISE OPTIONS
 

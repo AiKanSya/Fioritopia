@@ -1,6 +1,6 @@
-# ♠ 2 [MANAGING BUSINESS PROCESSES WITH BUSINESS PROCESS MANAGEMENT SOFTWARE](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/managing-business-processes-with-business-process-management-software_a821bfc8-6a73-4c1b-9000-98e8d9bd1680)
+# 🌸 2 [MANAGING BUSINESS PROCESSES WITH BUSINESS PROCESS MANAGEMENT SOFTWARE](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/managing-business-processes-with-business-process-management-software_a821bfc8-6a73-4c1b-9000-98e8d9bd1680)
 
-> :exclamation: Objectifs
+> 🌺 Objectifs
 >
 > - [ ] Expliquer la nécessité d'un logiciel de gestion des processus métier en évaluant les conséquences de processus métier mal définis et les avantages de processus métier bien définis.
 >
@@ -10,7 +10,7 @@
 >
 > - [ ] Planifier la mise en œuvre d'un processus métier en exploitant les éléments clés d'un système BPM.
 
-## :closed_book: WHY BUSINESS NEED BUSINESS PROCESS MANAGEMENT SOFTWARE?
+## 🌸 WHY BUSINESS NEED BUSINESS PROCESS MANAGEMENT SOFTWARE?
 
 Tout d'abord, expliquons pourquoi les entreprises ont besoin d'un **logiciel de gestion des processus métier** (**BPMS** - **Business Process Management Software**) comme `SAP Build Process Automation`.
 
@@ -18,11 +18,11 @@ Dans une entreprise gérant des milliers de processus, il peut être difficile p
 
 ### GETTING STARTED WITH NO-CODE BUSINESS PROCESS AUTOMATION
 
-#### :small_red_triangle_down: Poorly and well designed processes :
+#### 💮 Poorly and well designed processes :
 
 ![](./assets/No-Code_BusinessProcessAutomation.png)
 
-#### :small_red_triangle_down: Comparing good versus bad business processes :
+#### 💮 Comparing good versus bad business processes :
 
 Des processus bien gérés améliorent la communication entre les personnes et les services. Précision, rapidité et efficacité sont des atouts majeurs. Cela permet d'éliminer la confusion et la frustration quotidiennes et de responsabiliser davantage l'équipe. Plutôt que de blâmer un processus pour les retards ou les échecs, les membres de l'équipe peuvent assumer davantage de responsabilités et se concentrer sur leurs objectifs.
 
@@ -30,7 +30,7 @@ Des processus bien gérés améliorent la communication entre les personnes et l
 >
 > Même mal conçus, des processus défaillants peuvent exister au sein de votre organisation. Même s'ils peuvent fonctionner correctement, ce sont eux qui peuvent engendrer les problèmes les plus importants, tant pour vous que pour l'ensemble de votre organisation.
 
-## :closed_book: WHAT IS BUSINESS PROCESS MANAGEMENT?
+## 🌸 WHAT IS BUSINESS PROCESS MANAGEMENT?
 
 La **gestion des processus métier** (**BPM**) est une approche permettant d'**identifier**, d'**analyser**, de **mesurer** et d'**améliorer** les **processus d'une organisation**.
 
@@ -40,7 +40,7 @@ Cela s'effectue grâce au **cycle de vie** du **BPM**, qui comprend six étapes 
 
 ![](./assets/SPA400_02_U1L2_001.png)
 
-## :closed_book: BENEFITS OF BUSINESS PROCESS MANAGEMENT
+## 🌸 BENEFITS OF BUSINESS PROCESS MANAGEMENT
 
 La gestion du **cycle de vie** des processus métier avec le **BPM** présente plusieurs avantages :
 
@@ -56,7 +56,7 @@ La gestion du **cycle de vie** des processus métier avec le **BPM** présente p
 
 > En résumé, le **BPM** est une discipline vaste qui prend en compte l'ensemble des personnes, des informations, des systèmes et autres éléments qui génèrent des résultats en soutien à une stratégie d'entreprise. Il aide les entreprises qui gèrent un grand nombre de processus à identifier les dysfonctionnements et à accroître la transparence opérationnelle.
 
-## :closed_book: ELEMENT OF A BPM SYSTEM
+## 🌸 ELEMENT OF A BPM SYSTEM
 
 Maintenant que vous connaissez le **BPM** et ses avantages, voyons comment les logiciels peuvent propulser ces avancées.
 

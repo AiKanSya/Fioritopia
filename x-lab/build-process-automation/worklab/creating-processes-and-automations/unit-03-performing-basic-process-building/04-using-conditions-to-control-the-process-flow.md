@@ -1,12 +1,12 @@
-# ♠ 4 [USING CONDITIONS TO CONTROL THE PROCESS FLOW](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/using-conditions-to-control-the-process-flow_df45b353-142d-42a3-91e4-4c8d13a1aace)
+# 🌸 4 [USING CONDITIONS TO CONTROL THE PROCESS FLOW](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/using-conditions-to-control-the-process-flow_df45b353-142d-42a3-91e4-4c8d13a1aace)
 
-> :exclamation: Objectifs
+> 🌺 Objectifs
 >
 > - [ ] Créer et configurer les conditions du processus
 >
 > - [ ] Créer une condition de processus et ajuster le flux de processus
 
-## :closed_book: USING CONDITIONS TO CONTROL THE FLOW IN AN OVERVIEW
+## 🌸 USING CONDITIONS TO CONTROL THE FLOW IN AN OVERVIEW
 
 ### INTRODUCTION
 
@@ -22,7 +22,7 @@ Avec `SAP Build Process Automation`, vous pouvez automatiser votre processus pou
 
 Maintenant que vous avez conçu un processus avec des formulaires et une automatisation, définissons quel flux de processus doit s'exécuter en fonction des conditions If/Else qui déterminent quel flux de processus est exécuté et s'il y aura une approbation automatique ou un itinéraire d'approbation en une étape.
 
-## :closed_book: CREATE A PROCESS CONDITION AND ADJUST THE PROCESS FLOW
+## 🌸 CREATE A PROCESS CONDITION AND ADJUST THE PROCESS FLOW
 
 ### BUSINESS SCENARIO
 

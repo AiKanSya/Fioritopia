@@ -1,6 +1,6 @@
-# ☼ UNIT 1 - QUIZZ
+# 🌸 UNIT 1 - QUIZZ
 
-## :small_red_triangle_down: The Text Rule is a collection of input and output rule expressions in a tabular representation.
+## 💮 The Text Rule is a collection of input and output rule expressions in a tabular representation.
 
 _Choose the correct answer._
 
@@ -17,7 +17,7 @@ _Choose the correct answer._
 
 </details>
 
-## :small_red_triangle_down: What additional configuration steps are required on an Action after you have added it to a process?
+## 💮 What additional configuration steps are required on an Action after you have added it to a process?
 
 _There are two correct answers._
 
@@ -42,7 +42,7 @@ _There are two correct answers._
 
 </details>
 
-## :small_red_triangle_down: Which of the following is the last step required to make defined Actions in an Actions project available in the Actions Library?
+## 💮 Which of the following is the last step required to make defined Actions in an Actions project available in the Actions Library?
 
 _Choose the correct answer._
 
@@ -67,7 +67,7 @@ _Choose the correct answer._
 
 </details>
 
-## :small_red_triangle_down: What do you have to verify before you run a business process that contains one or more automation in it?
+## 💮 What do you have to verify before you run a business process that contains one or more automation in it?
 
 _Choose the correct answer._
 

@@ -1,10 +1,10 @@
-# ♠ 2 [CREATING THE PROCESS PROJECT](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/creating-the-process-project_a3990392-d0e3-473d-9608-64b6629ed311)
+# 🌸 2 [CREATING THE PROCESS PROJECT](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/creating-the-process-project_a3990392-d0e3-473d-9608-64b6629ed311)
 
-> :exclamation: Objectifs
+> 🌺 Objectifs
 >
 > - [ ] Create the process project
 
-## :closed_book: THE PROCESS PROJECT
+## 🌸 THE PROCESS PROJECT
 
 `SAP Build Process Automation` est un service `SAP BTP` qui vous permet de **créer**, d'**exécuter**, d'**automatiser** et de **surveiller** vos processus métier sur une seule interface grâce à des fonctionnalités **low-code/no-code**.
 
@@ -16,7 +16,7 @@ Après vous être abonné à `SAP Build Process Automation`, vous pouvez créer 
 
 Avec un abonnement `SAP Build Process Automation`, vous pouvez créer et gérer deux types de projets :
 
-#### :small_red_triangle_down: Business Process Project :
+#### 💮 Business Process Project :
 
 **Créez**, **déployez**, **automatisez** et **exécutez** des **processus métier** digitaux en configurant des **artefacts** de processus.
 
@@ -28,7 +28,7 @@ Exemples de projets de processus métier :
 
 - approbations de commandes clients.
 
-#### :small_red_triangle_down: Actions Project :
+#### 💮 Actions Project :
 
 Intégrez des compétences et des capacités externes à vos projets de **processus métier** en téléchargeant un **fichier de spécification d'API** ouvert au format .**json**.
 
@@ -36,7 +36,7 @@ Les projets d'actions permettent aux systèmes et solutions externes de communiq
 
 Dans cette leçon, vous apprendrez à créer un projet de processus et à créer des formulaires interactifs pour collecter et partager des informations pendant l'exécution d'un processus. Les formulaires peuvent ensuite servir de déclencheur pour un processus et être ajoutés comme étapes supplémentaires à ce même processus.
 
-## :closed_book: CREATE A PROCESS PROJECT
+## 🌸 CREATE A PROCESS PROJECT
 
 ### BUSINESS SCENARIO
 

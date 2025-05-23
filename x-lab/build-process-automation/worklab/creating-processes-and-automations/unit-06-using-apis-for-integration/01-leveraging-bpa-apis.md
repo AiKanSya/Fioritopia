@@ -1,10 +1,10 @@
-# ♠ 1 [LEVERAGE SAP BUILD PROCESS AUTOMATION APIS](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/leveraging-sap-build-process-automation-apis_f3a73b24-9cdb-4549-bf53-c21edb63a1f0)
+# 🌸 1 [LEVERAGE SAP BUILD PROCESS AUTOMATION APIS](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/leveraging-sap-build-process-automation-apis_f3a73b24-9cdb-4549-bf53-c21edb63a1f0)
 
-> :exclamation: Objectifs
+> 🌺 Objectifs
 >
 > - [ ] Exploitez les APIS d'automatisation des processus de construction SAP
 
-## :closed_book: SAP BUILD PROCESS AUTOMATION APPLICATION PROGRAMMING INTERFACES
+## 🌸 SAP BUILD PROCESS AUTOMATION APPLICATION PROGRAMMING INTERFACES
 
 ### WHAT ARE REST APIS?
 
@@ -12,11 +12,11 @@
 
 Naturellement, la plupart des applications et services basés et exécutés dans le cloud s'appuient sur des **API REST** :
 
-#### :small_red_triangle_down: REST (= Representational state transfer) :
+#### 💮 REST (= Representational state transfer) :
 
 est un style architectural qui définit certaines directives et contraintes pour la conception de composants web. Il met particulièrement l'accent sur l'interaction et la communication entre ces composants.
 
-#### :small_red_triangle_down: APIs (= Application Programming Interfaces) :
+#### 💮 APIs (= Application Programming Interfaces) :
 
 définissent comment les composants peuvent être contactés par d'autres composants afin de déclencher certaines fonctionnalités.
 
@@ -36,31 +36,31 @@ En accédant au [SAP API Business Hub](https://api.sap.com/) (lien bientôt remp
 
 ![](./assets/SPA400_01_Lev_API_04_scr.png)
 
-#### :small_red_triangle_down: Automation Execution :
+#### 💮 Automation Execution :
 
 Créez une application permettant de lancer des automatisations spécifiques d'un simple clic.
 
-#### :small_red_triangle_down: Automation Monitoring :
+#### 💮 Automation Monitoring :
 
 Récupérez les journaux des automatisations passées et administrez-les dans un autre outil.
 
-#### :small_red_triangle_down: Decisions :
+#### 💮 Decisions :
 
 Exécutez un service de règles à l'aide d'un **client REST** pour vérifier qu'il produit les résultats escomptés.
 
-#### :small_red_triangle_down: Inbox :
+#### 💮 Inbox :
 
 Créez une application Boîte de réception personnalisée, dont l'apparence diffère de l'application standard My Inbox fournie par SAP. Ce cas d'utilisation nécessite également l'API Processus et Workflows.
 
-#### :small_red_triangle_down: Workflows :
+#### 💮 Workflows :
 
 Permettez à une autre application de déclencher de nouvelles instances de processus ou de workflow.
 
-#### :small_red_triangle_down: Visibility Scenarios :
+#### 💮 Visibility Scenarios :
 
 Gagnez en visibilité sur les processus ou les workflows des systèmes non SAP en envoyant les événements de processus au service SAP Build Process Automation.
 
-#### :small_red_triangle_down: Visibility Workspace :
+#### 💮 Visibility Workspace :
 
 Obtenez un aperçu des scénarios de visibilité auxquels un utilisateur spécifique a accès.
 

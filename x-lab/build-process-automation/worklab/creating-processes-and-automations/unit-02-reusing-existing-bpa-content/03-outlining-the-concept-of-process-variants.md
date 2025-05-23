@@ -1,10 +1,10 @@
-# ♠ 3 [OUTLINED THE CONCEPT OF PROCESS VARIANTS IN LIVE PROCESS CONTENT](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/outlining-the-concept-of-process-variants-in-live-process-content_d4e1edfb-7086-4165-bada-1619c19964b5)
+# 🌸 3 [OUTLINED THE CONCEPT OF PROCESS VARIANTS IN LIVE PROCESS CONTENT](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/outlining-the-concept-of-process-variants-in-live-process-content_d4e1edfb-7086-4165-bada-1619c19964b5)
 
-> :exclamation: Objectifs
+> 🌺 Objectifs
 >
 > - [ ] Décrire le concept de variantes de processus dans le contenu du processus en direct
 
-## :closed_book: PROCESS VARIANTS IN LIVE PROCESS CONTENT
+## 🌸 PROCESS VARIANTS IN LIVE PROCESS CONTENT
 
 - [Référence - Link Video](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/outlining-the-concept-of-process-variants-in-live-process-content_d4e1edfb-7086-4165-bada-1619c19964b5)
 
@@ -32,19 +32,19 @@ Une fois un processus en direct ajouté depuis la boutique, il apparaîtra dans 
 
 Au sein du processus, vous pouvez visualiser tous les artefacts disponibles. Il comprend généralement un modèle de processus, des décisions et un scénario de visibilité.
 
-#### :small_red_triangle_down: Process Template :
+#### 💮 Process Template :
 
 - Il se compose d'étapes de processus et d'une variante de processus préconfigurée, qui représente un processus minimum viable.
 
 - Il peut être utilisé pour configurer autant de variantes de processus que nécessaire. Les variantes de processus représentent des cas d'utilisation individuels d'un processus (par exemple, lorsque le montant total de la demande est inférieur à 10 000 euros, une seule approbation est requise, tandis que lorsque le montant total de la demande est supérieur à 10 000 euros, deux approbations sont requises). (Ces détails seront bientôt expliqués.)
 
-#### :small_red_triangle_down: Decision :
+#### 💮 Decision :
 
 - Contient des règles métier pertinentes pour le flux de processus. Par exemple, « Déterminer la variante de processus » contient une règle qui détermine la variante de processus à exécuter, en fonction des données de la demande (par exemple, variante de processus 1 lorsque le montant total de la demande est inférieur à 10 000 euros, variante de processus 2 lorsque le montant total de la demande est supérieur à 10 000 euros).
 
 - Configurable en fonction des besoins métier.
 
-#### :small_red_triangle_down: Visibility Scenario :
+#### 💮 Visibility Scenario :
 
 - Contient un scénario de visibilité de processus préconfiguré pour le modèle de processus sous-jacent.
 

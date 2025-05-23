@@ -1,10 +1,10 @@
-# ♠ 4 [PREPARING THE DESKTOP FOR EXECUTING THE SALES ORDER MANAGEMENT AUTOMATION USING THE DESKTOP AGENT](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/preparing-the-desktop-for-executing-the-sales-order-management-automation-using-the-desktop-agent_e040e6ea-f96b-4d0e-8ae0-9488a598ddd1)
+# 🌸 4 [PREPARING THE DESKTOP FOR EXECUTING THE SALES ORDER MANAGEMENT AUTOMATION USING THE DESKTOP AGENT](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/preparing-the-desktop-for-executing-the-sales-order-management-automation-using-the-desktop-agent_e040e6ea-f96b-4d0e-8ae0-9488a598ddd1)
 
-> :exclamation: Objectifs
+> 🌺 Objectifs
 >
 > - [ ] Prepare the desktop for executing the sales order management automation using the Desktop Agent
 
-## :closed_book: USING THE DESKTOP AGENT TO RUN AUTOMATIONS
+## 🌸 USING THE DESKTOP AGENT TO RUN AUTOMATIONS
 
 L'`agent Desktop` est un composant installé localement sur les postes de travail des utilisateurs. Il exécute des **projets d'automatisation** qui lancent et exécutent divers types d'applications, lisent des informations sur les écrans, saisissent des données, cliquent sur des options et traitent des données.
 
@@ -32,7 +32,7 @@ L'`agent Desktop` vous permet d'**exécuter** et de **surveiller** vos projets, 
 
 Dans cette leçon, vous apprendrez à enregistrer l'`agent Desktop` et à **exécuter** le **processus** de votre projet.
 
-## :closed_book: UDOWNLOAD, INSTALL AND REGISTER THE DESKTOP AGENT
+## 🌸 UDOWNLOAD, INSTALL AND REGISTER THE DESKTOP AGENT
 
 ### BUSINESS SCENARIO
 

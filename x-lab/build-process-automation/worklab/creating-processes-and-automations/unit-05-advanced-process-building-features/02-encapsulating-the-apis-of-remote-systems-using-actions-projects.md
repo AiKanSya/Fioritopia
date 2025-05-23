@@ -1,10 +1,10 @@
-# ♠ 2 [ENCAPSULATING THE APIS OF REMOTE SYSTEMS USING ACTIONS PROJECTS](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/encapsulating-the-apis-of-remote-systems-using-actions-projects_d102638b-94d7-4c2e-9547-bb344e9aa9de)
+# 🌸 2 [ENCAPSULATING THE APIS OF REMOTE SYSTEMS USING ACTIONS PROJECTS](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/encapsulating-the-apis-of-remote-systems-using-actions-projects_d102638b-94d7-4c2e-9547-bb344e9aa9de)
 
-> :exclamation: Objectifs
+> 🌺 Objectifs
 >
 > - [ ] Encapsuler les API des systèmes distants à l'aide de projets d'actions
 
-## :closed_book: ENCAPSULATION OF REMOTE SYSTEMS APIS USING ACTIONS PROJECTS
+## 🌸 ENCAPSULATION OF REMOTE SYSTEMS APIS USING ACTIONS PROJECTS
 
 ![](./assets/SPA400_01_U5L2_001.png)
 
@@ -46,7 +46,7 @@ Une fois les API encapsulées dans un projet Actions et publiées dans la biblio
 
 - Outputs : aperçu du résultat de l'appel d'Actions, tel que défini dans l'action concernée.
 
-## :closed_book: ENCAPSULATE REMOTE SYSTEMS APIS USING ACTIONS PROJECTS
+## 🌸 ENCAPSULATE REMOTE SYSTEMS APIS USING ACTIONS PROJECTS
 
 ### BUSINESS SCENARIO
 

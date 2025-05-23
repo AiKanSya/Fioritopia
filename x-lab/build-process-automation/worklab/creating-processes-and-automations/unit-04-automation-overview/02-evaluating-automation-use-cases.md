@@ -1,10 +1,10 @@
-# ♠ 2 [EVALUATING AUTOMATION USE CASES](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/evaluating-automation-use-cases_bea7b479-f776-419e-8b90-2f3ecf036e08)
+# 🌸 2 [EVALUATING AUTOMATION USE CASES](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/evaluating-automation-use-cases_bea7b479-f776-419e-8b90-2f3ecf036e08)
 
-> :exclamation: Objectifs
+> 🌺 Objectifs
 >
 > - [ ] Évaluer les cas d’utilisation et déterminer quand créer une automatisation pour le processus métier d’un client
 
-## :closed_book: TYPICAL USE CASES FOR AUTOMATIONS
+## 🌸 TYPICAL USE CASES FOR AUTOMATIONS
 
 Examinons quelques cas d'utilisation couverts par les automatisations dans `SAP Build Process Automation`. Parmi ceux-ci :
 
@@ -18,17 +18,17 @@ Les automatisations dans `SAP Build Process Automation` visent à optimiser l'ef
 
 [Animated Course](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/evaluating-automation-use-cases_bea7b479-f776-419e-8b90-2f3ecf036e08)
 
-## :closed_book: USE CASE TYPOLOGY
+## 🌸 USE CASE TYPOLOGY
 
 Au cours d'une journée de travail, les utilisateurs ignorent souvent toutes les tâches simples qu'ils effectuent. Les tâches cachées se perdent dans leur travail quotidien. On pense de prime abord qu'il suffit d'automatiser les tâches ennuyeuses. Cependant, il faut également considérer les tâches courtes et cachées, dont le potentiel d'automatisation est plus faible (environ 50 %). Ces tâches peuvent être effectuées, par exemple, 40 fois par jour ou plus. Si, par exemple, 50 personnes effectuent la même tâche, le potentiel de gain de temps est nettement supérieur à celui des tâches ennuyeuses, estimé à environ 12 équivalents temps plein.
 
 ![](./assets/U1L1S6_Use_Cases_Typology_img.png)
 
-## :closed_book: USE CASE EXAMPLE WITH AND WITHOUT AUTOMATION
+## 🌸 USE CASE EXAMPLE WITH AND WITHOUT AUTOMATION
 
 [Link Video](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/evaluating-automation-use-cases_bea7b479-f776-419e-8b90-2f3ecf036e08)
 
-## :closed_book: USE CASE CONSTRAINTS
+## 🌸 USE CASE CONSTRAINTS
 
 Prenons un autre exemple. Un système de gestion d'actifs est en place, avec ses écrans correspondants.
 
@@ -44,7 +44,7 @@ Les contraintes de temps et de budget sont souvent des points clés pour promouv
 
 ![](./assets/SPA400_02_U4L2_001.png)
 
-## :closed_book: MANUAL PURCHASE ORDER CREATION
+## 🌸 MANUAL PURCHASE ORDER CREATION
 
 Voici une description du processus typique de création d'un bon de commande (BC).
 
@@ -56,7 +56,7 @@ Cependant, l'équipe doit répéter ces opérations à maintes reprises, souvent
 
 ![](./assets/U1L1S10_PO_Creation_Man_img.png)
 
-## :closed_book: AUTOMATED PURCHASE ORDER CREATION
+## 🌸 AUTOMATED PURCHASE ORDER CREATION
 
 Dans cette approche, un robot lit d'abord la feuille de calcul. Ligne après ligne, il copie toutes les valeurs des champs dans la transaction correspondante de votre système SAP ERP préféré.
 
@@ -64,7 +64,7 @@ Une fois en place, ce robot travaille en continu pour aider l'équipe. La figure
 
 ![](./assets/U1L1S11_Pur_Order_Auto_img.png)
 
-## :closed_book: USE CASE CRITERIA
+## 🌸 USE CASE CRITERIA
 
 Nous allons ici résumer les critères d'utilisation des automatisations dans SAP Build Process Automation.
 

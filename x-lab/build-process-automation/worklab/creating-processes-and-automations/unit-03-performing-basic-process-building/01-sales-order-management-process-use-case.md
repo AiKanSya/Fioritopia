@@ -1,10 +1,10 @@
-# ♠ 1 [INTRODUCING THE SALES ORDER MANAGEMENT PROCESS USE CASE](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/introducing-the-sales-order-management-process-use-case_ffdc8dd2-dad9-426d-bf3f-5b55acca6eb7)
+# 🌸 1 [INTRODUCING THE SALES ORDER MANAGEMENT PROCESS USE CASE](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/introducing-the-sales-order-management-process-use-case_ffdc8dd2-dad9-426d-bf3f-5b55acca6eb7)
 
-> :exclamation: Objectifs
+> 🌺 Objectifs
 >
 > - [ ] Passez en revue le processus de gestion des commandes que vous allez créer
 
-## :closed_book: SALES ORDER MANAGEMENT PROCESS REVIEW
+## 🌸 SALES ORDER MANAGEMENT PROCESS REVIEW
 
 Apprenons à créer un **processus de gestion des commandes clients**.
 

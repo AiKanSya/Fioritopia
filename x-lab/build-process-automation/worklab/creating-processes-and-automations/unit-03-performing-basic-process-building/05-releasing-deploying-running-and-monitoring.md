@@ -1,12 +1,12 @@
-# ♠ 5 [RELEASING, DEPLOYING, RUNNING AND MONITORING THE PROCESS](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/releasing-deploying-running-and-monitoring-the-process_adf38db3-e91e-4c64-a3bb-5d2a8fb93325)
+# 🌸 5 [RELEASING, DEPLOYING, RUNNING AND MONITORING THE PROCESS](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/releasing-deploying-running-and-monitoring-the-process_adf38db3-e91e-4c64-a3bb-5d2a8fb93325)
 
-> :exclamation: Objectifs
+> 🌺 Objectifs
 >
 > - [ ] Libérez, déployez, exécutez et surveillez votre processus
 >
 > - [ ] Surveiller le nouveau processus
 
-## :closed_book: RELEASING, DEPLOYING, RUNNING AND MONITORING THE PROCESS
+## 🌸 RELEASING, DEPLOYING, RUNNING AND MONITORING THE PROCESS
 
 Une fois votre **processus** modélisé avec différents formulaires, il est temps de l'exécuter. Avant de pouvoir exécuter votre projet de processus, vous devez d'abord le **publier** et le **déployer**.
 
@@ -20,7 +20,7 @@ Une fois votre **processus** modélisé avec différents formulaires, il est tem
 
 ![Animated Course](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/releasing-deploying-running-and-monitoring-the-process_adf38db3-e91e-4c64-a3bb-5d2a8fb93325)
 
-## :closed_book: RELEASE, DEPLOY AND RUN YOUR PROCESS
+## 🌸 RELEASE, DEPLOY AND RUN YOUR PROCESS
 
 ### BUSINESS SCENARIO
 
@@ -42,7 +42,7 @@ Une fenêtre contextuelle s'ouvre. Vous disposez des options suivantes :
 
 [PDF](<./assets/hands_on%20(5).pdf>)
 
-## :closed_book: MONITOR THE NEW PROCESS AND ACCESS ITS TASKS
+## 🌸 MONITOR THE NEW PROCESS AND ACCESS ITS TASKS
 
 ### BUSINESS SCENARIO
 

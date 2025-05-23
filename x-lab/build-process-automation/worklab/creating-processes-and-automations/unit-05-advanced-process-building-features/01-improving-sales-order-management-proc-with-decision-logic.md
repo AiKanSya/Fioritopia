@@ -1,12 +1,12 @@
-# ♠ 1 [IMPROVING THE SALES ORDER MANAGEMENT PROCESS WITH DECISION LOGIC](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/improving-the-sales-order-management-process-with-decision-logic_e13b26bd-9ba6-48ba-a7f0-d8879c1bb14f)
+# 🌸 1 [IMPROVING THE SALES ORDER MANAGEMENT PROCESS WITH DECISION LOGIC](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/improving-the-sales-order-management-process-with-decision-logic_e13b26bd-9ba6-48ba-a7f0-d8879c1bb14f)
 
-> :exclamation: Objectifs
+> 🌺 Objectifs
 >
 > - [ ] Créer et configurer la logique de décision dans le processus
 >
 > - [ ] Mettre à jour un processus existant
 
-## :closed_book: INTRODUCTION: IMPROVING THE PROCESS WITH DECISION LOGIC
+## 🌸 INTRODUCTION: IMPROVING THE PROCESS WITH DECISION LOGIC
 
 Vous allez maintenant apprendre à créer et configurer une **décision**.
 
@@ -24,7 +24,7 @@ Voici un exercice. Visionnez la vidéo suivante pour vous préparer : Créer et
 
 [Link Video](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/improving-the-sales-order-management-process-with-decision-logic_e13b26bd-9ba6-48ba-a7f0-d8879c1bb14f)
 
-## :closed_book: CREATE AND CONFIGURE DECISION LOGIC IN THE PROCESS
+## 🌸 CREATE AND CONFIGURE DECISION LOGIC IN THE PROCESS
 
 ### BUSINESS SCENARIO
 
@@ -49,7 +49,7 @@ Choisir « Ouvrir un document PDF » : un PDF s'ouvre. En suivant les étapes
 
 [Steps](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/improving-the-sales-order-management-process-with-decision-logic_e13b26bd-9ba6-48ba-a7f0-d8879c1bb14f)
 
-## :closed_book: INCLUDE THE DECISION LOGIC IN THE PROCESS
+## 🌸 INCLUDE THE DECISION LOGIC IN THE PROCESS
 
 ### BUSINESS SCENARIO
 
@@ -72,7 +72,7 @@ Choisir « Ouvrir un document PDF » : un PDF s'ouvre. En suivant les étapes
 
 [PDF](<./assets/hands_on%20(1).pdf>)
 
-## :closed_book: RUN THE PROCESS INCLUDING AUTOMATION AND DECISION
+## 🌸 RUN THE PROCESS INCLUDING AUTOMATION AND DECISION
 
 ### BUSINESS SCENARIO
 

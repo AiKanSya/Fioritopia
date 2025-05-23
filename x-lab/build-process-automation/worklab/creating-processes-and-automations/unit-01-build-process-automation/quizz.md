@@ -1,6 +1,6 @@
-# ☼ UNIT 1 - QUIZZ
+# 🌸 UNIT 1 - QUIZZ
 
-## :small_red_triangle_down: Which of the following SAP BTP services are integrated into SAP Build Process Automation?
+## 💮 Which of the following SAP BTP services are integrated into SAP Build Process Automation?
 
 _There are two correct answers._
 
@@ -25,7 +25,7 @@ _There are two correct answers._
 
 </details>
 
-## :small_red_triangle_down: SAP Build Process Automation has more than one Working Mode.
+## 💮 SAP Build Process Automation has more than one Working Mode.
 
 _Choose the correct answer._
 
@@ -42,7 +42,7 @@ _Choose the correct answer._
 
 </details>
 
-## :small_red_triangle_down: The Business Process Management (BPM) lifecycle consists of four stages that should be undertaken by a company.
+## 💮 The Business Process Management (BPM) lifecycle consists of four stages that should be undertaken by a company.
 
 _Choose the correct answer._
 
@@ -59,7 +59,7 @@ _Choose the correct answer._
 
 </details>
 
-## :small_red_triangle_down: Where can you configure the virtual host alias?
+## 💮 Where can you configure the virtual host alias?
 
 _Choose the correct answer._
 
@@ -84,7 +84,7 @@ _Choose the correct answer._
 
 </details>
 
-## :small_red_triangle_down: Which are the guiding constraints that define the REST architectural style?
+## 💮 Which are the guiding constraints that define the REST architectural style?
 
 _There are three correct answers._
 
@@ -109,7 +109,7 @@ _There are three correct answers._
 
 </details>
 
-## :small_red_triangle_down: Which approach supports to overcome heterogeneity and complex solutions?
+## 💮 Which approach supports to overcome heterogeneity and complex solutions?
 
 _Choose the correct answer._
 
@@ -134,7 +134,7 @@ _Choose the correct answer._
 
 </details>
 
-## :small_red_triangle_down: Which of the following are some elements of the core as it relates to the clean core approach?
+## 💮 Which of the following are some elements of the core as it relates to the clean core approach?
 
 _There are three correct answers._
 
@@ -159,7 +159,7 @@ _There are three correct answers._
 
 </details>
 
-## :small_red_triangle_down: Metadata in XML is essential for providing context, structure, and control over XML documents.
+## 💮 Metadata in XML is essential for providing context, structure, and control over XML documents.
 
 _Choose the correct answer._
 
@@ -176,7 +176,7 @@ _Choose the correct answer._
 
 </details>
 
-## :small_red_triangle_down: Which sentence describes best an event-driven architecture (EDA)?
+## 💮 Which sentence describes best an event-driven architecture (EDA)?
 
 _Choose the correct answer._
 

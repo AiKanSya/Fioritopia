@@ -1,10 +1,10 @@
-# ♠ 3 [CALLING APIS OF REMOTE SYSTEMS USING ACTIONS IN A PROCESS](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/calling-apis-of-remote-systems-using-actions-in-a-process_e33106b5-2c6e-445a-8cc6-4dc9839c1cd5)
+# 🌸 3 [CALLING APIS OF REMOTE SYSTEMS USING ACTIONS IN A PROCESS](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/calling-apis-of-remote-systems-using-actions-in-a-process_e33106b5-2c6e-445a-8cc6-4dc9839c1cd5)
 
-> :exclamation: Objectifs
+> 🌺 Objectifs
 >
 > - [ ] Call remote systems APIs using actions in a process
 
-## :closed_book: CALL REMOTE SYSTEMS APIS USING ACTIONS IN A PROCESS
+## 🌸 CALL REMOTE SYSTEMS APIS USING ACTIONS IN A PROCESS
 
 ### BUSINESS SCENARIO
 

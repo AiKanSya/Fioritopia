@@ -1,10 +1,10 @@
-# ♠ 1 [DESCRIBING THE PATH TO SAP BUILD PROCESS AUTOMATION](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/describing-the-path-to-sap-build-process-automation_b937f72a-1d68-4203-8c88-e5e03c210aa7)
+# 🌸 1 [DESCRIBING THE PATH TO SAP BUILD PROCESS AUTOMATION](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/describing-the-path-to-sap-build-process-automation_b937f72a-1d68-4203-8c88-e5e03c210aa7)
 
-> :exclamation: Objectifs
+> 🌺 Objectifs
 >
 > - [ ] Choisissez le Path approprié pour SAP BPA en fonction du point de départ du client
 
-## :closed_book: THE PATH TO BUILD PROCESS AUTOMATION
+## 🌸 THE PATH TO BUILD PROCESS AUTOMATION
 
 ![](./assets/01_Path_to_SPA_001.png)
 

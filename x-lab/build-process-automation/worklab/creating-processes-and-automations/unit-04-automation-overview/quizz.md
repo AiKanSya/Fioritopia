@@ -1,6 +1,6 @@
-# ☼ UNIT 4 - QUIZZ
+# 🌸 UNIT 4 - QUIZZ
 
-## :small_red_triangle_down: The Desktop agent is an pre-installed component embedded in SAP Build Process Automation.
+## 💮 The Desktop agent is an pre-installed component embedded in SAP Build Process Automation.
 
 _Choose the correct answer._
 
@@ -17,7 +17,7 @@ _Choose the correct answer._
 
 </details>
 
-## :small_red_triangle_down: What are the business benefits of SAP Build Process Automation?
+## 💮 What are the business benefits of SAP Build Process Automation?
 
 _There are three correct answers._
 
@@ -42,7 +42,7 @@ _There are three correct answers._
 
 </details>
 
-## :small_red_triangle_down: A process can be easily improved by adding a new web app to be able to fill in the necessary information in the appropriate form.
+## 💮 A process can be easily improved by adding a new web app to be able to fill in the necessary information in the appropriate form.
 
 _Choose the correct answer._
 
@@ -59,7 +59,7 @@ _Choose the correct answer._
 
 </details>
 
-## :small_red_triangle_down: Which tool is needed to add a new automation to your business process?
+## 💮 Which tool is needed to add a new automation to your business process?
 
 _Choose the correct answer._
 

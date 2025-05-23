@@ -1,10 +1,10 @@
-# ♠ 1 [SUBSCRIBING TO SAP BUILD PROCESS AUTOMATION USING BOOSTER IN SAP BTP FREE TIER](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/subscribing-to-sap-build-process-automation-using-booster-in-sap-btp-free-tier_defa8a0a-50d7-4a2a-902c-42648680d1e0)
+# 🌸 1 [SUBSCRIBING TO SAP BUILD PROCESS AUTOMATION USING BOOSTER IN SAP BTP FREE TIER](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/subscribing-to-sap-build-process-automation-using-booster-in-sap-btp-free-tier_defa8a0a-50d7-4a2a-902c-42648680d1e0)
 
-> :exclamation: Objectifs
+> 🌺 Objectifs
 >
 > - [ ] Abonnez-vous à SAP Build Process Automation avec Booster dans SAP BTP Free Tier
 
-## :closed_book: SUBSCRIBE TO SAP BUILD PROCESS AUTOMATION USING BOOSTER IN SAP BTP FREE TIER
+## 🌸 SUBSCRIBE TO SAP BUILD PROCESS AUTOMATION USING BOOSTER IN SAP BTP FREE TIER
 
 Vous trouverez plus d'informations sur ce sujet dans la formation BTP110, **Compose and Automate With SAP Build the No-Code Way**.
 

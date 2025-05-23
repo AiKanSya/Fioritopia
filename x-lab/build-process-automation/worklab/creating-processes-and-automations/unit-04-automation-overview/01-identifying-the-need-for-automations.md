@@ -1,10 +1,10 @@
-# ♠ 1 [IDENTIYING THE NEED FOR AUTOMATIONS](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/identifying-the-need-for-automations_c90c6ee5-01c8-4c2f-bae6-377306fb48ce)
+# 🌸 1 [IDENTIYING THE NEED FOR AUTOMATIONS](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/identifying-the-need-for-automations_c90c6ee5-01c8-4c2f-bae6-377306fb48ce)
 
-> :exclamation: Objectifs
+> 🌺 Objectifs
 >
 > - [ ] Identifier le besoin d'automatisation dans les processus métier
 
-## :closed_book: WHAT MAKES AUTOMATIONS IN SAP BUILD PROCESS AUTOMATION SPECIAL?
+## 🌸 WHAT MAKES AUTOMATIONS IN SAP BUILD PROCESS AUTOMATION SPECIAL?
 
 Découvrons ensemble ce que sont les **automatisations** dans `SAP Build Process Automation` et comment elles se produisent.
 
@@ -14,7 +14,7 @@ En intégrant les `chatbots`, en utilisant des API plutôt que de simples élém
 
 ![](./assets/IRPA01_U1L1S2_What_Is_RPA_.png)
 
-## :closed_book: FROM MANUAL TASKS TO AUTOMATION
+## 🌸 FROM MANUAL TASKS TO AUTOMATION
 
 Au début du siècle dernier, pendant la révolution industrielle, notamment dans les industries textile et automobile, on trouvait de grands entrepôts où de nombreux employés effectuaient d'innombrables tâches manuelles. Ces derniers effectuaient les mêmes tâches à l'infini, souvent des centaines, voire des milliers de fois par jour.
 
@@ -28,7 +28,7 @@ En général, les utilisateurs préfèrent consacrer leur temps au service clien
 
 ![](./assets/U1L1S3_Man_Tasks_To_Auto.png)
 
-## :closed_book: BUSINESS VALUE OF AUTOMATIONS
+## 🌸 BUSINESS VALUE OF AUTOMATIONS
 
 La valeur commerciale apportée par l’automatisation dans `SAP Build Process Automation` peut être décrite selon quatre perspectives différentes.
 

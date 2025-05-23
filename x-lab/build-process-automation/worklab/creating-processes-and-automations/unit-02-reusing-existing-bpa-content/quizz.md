@@ -1,6 +1,6 @@
-# ☼ UNIT 2 - QUIZZ
+# 🌸 UNIT 2 - QUIZZ
 
-## :small_red_triangle_down: Which of the following answers are benefits of SAP Build Process Automation?
+## 💮 Which of the following answers are benefits of SAP Build Process Automation?
 
 _There are two correct answers._
 
@@ -25,7 +25,7 @@ _There are two correct answers._
 
 </details>
 
-## :small_red_triangle_down: To be able to share an SAP Build Process Automation project with another developer, you always have to re-create the initial project.
+## 💮 To be able to share an SAP Build Process Automation project with another developer, you always have to re-create the initial project.
 
 _Choose the correct answer._
 
@@ -42,7 +42,7 @@ _Choose the correct answer._
 
 </details>
 
-## :small_red_triangle_down: Which of the following artifacts are usually part of an added Live Process from the SAP Build Process Automation Store?
+## 💮 Which of the following artifacts are usually part of an added Live Process from the SAP Build Process Automation Store?
 
 _There are two correct answers._
 
@@ -67,7 +67,7 @@ _There are two correct answers._
 
 </details>
 
-## :small_red_triangle_down: The SAP Build Process Automation Store is a central component of SAP Build Process Automation that contains pre-built automations only.
+## 💮 The SAP Build Process Automation Store is a central component of SAP Build Process Automation that contains pre-built automations only.
 
 _Choose the correct answer._
 

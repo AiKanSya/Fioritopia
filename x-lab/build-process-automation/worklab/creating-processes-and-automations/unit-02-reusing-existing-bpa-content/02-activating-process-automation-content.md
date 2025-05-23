@@ -1,10 +1,10 @@
-# ♠ 2 [ACTIVATING PROCESS AUTOMATION CONTENT](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/activating-process-automation-content_c9a67d2c-3b58-4288-8e5b-ccb71ca81010)
+# 🌸 2 [ACTIVATING PROCESS AUTOMATION CONTENT](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/activating-process-automation-content_c9a67d2c-3b58-4288-8e5b-ccb71ca81010)
 
-> :exclamation: Objectifs
+> 🌺 Objectifs
 >
 > - [ ] Localisez et activez le contenu d'automatisation des processus à partir de SAP Build Process Automation Store
 
-## :closed_book: THE STORE FOR PROCESS AUTOMATION CONTENT
+## 🌸 THE STORE FOR PROCESS AUTOMATION CONTENT
 
 ![](./assets/01_1_Exploring_the_Store_001.png)
 
@@ -22,7 +22,7 @@ Le `SAP Build Process Automation Store` est un composant central de `SAP Build P
 
   ![](./assets/Capture%20d’écran%202025-05-23%20114300.png)
 
-## :closed_book: ACTIVATE PROCESS AUTOMATION CONTENT
+## 🌸 ACTIVATE PROCESS AUTOMATION CONTENT
 
 ### BUSINESS SCENARIO
 
