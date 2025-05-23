@@ -1,4 +1,4 @@
-# ♠ 1 [PREPARING THE DESKTOP FOR EXECUTING THE SALES ORDER MANAGEMENT AUTOMATION USING THE DESKTOP AGENT](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/preparing-the-desktop-for-executing-the-sales-order-management-automation-using-the-desktop-agent_e040e6ea-f96b-4d0e-8ae0-9488a598ddd1)
+# ♠ 4 [PREPARING THE DESKTOP FOR EXECUTING THE SALES ORDER MANAGEMENT AUTOMATION USING THE DESKTOP AGENT](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/preparing-the-desktop-for-executing-the-sales-order-management-automation-using-the-desktop-agent_e040e6ea-f96b-4d0e-8ae0-9488a598ddd1)
 
 > :exclamation: Objectifs
 >
@@ -6,11 +6,17 @@
 
 ## :closed_book: USING THE DESKTOP AGENT TO RUN AUTOMATIONS
 
-L'agent Desktop est un composant installé localement sur les postes de travail des utilisateurs. Il exécute des projets d'automatisation qui lancent et exécutent divers types d'applications, lisent des informations sur les écrans, saisissent des données, cliquent sur des options et traitent des données. Les projets d'automatisation sont attribués aux locataires exécutés sur l'agent Desktop. Vous pouvez visualiser l'activité de votre agent Desktop grâce au menu pratique, accessible en permanence depuis la barre des tâches de votre ordinateur, lorsqu'il est prêt ou actif.
+L'`agent Desktop` est un composant installé localement sur les postes de travail des utilisateurs. Il exécute des **projets d'automatisation** qui lancent et exécutent divers types d'applications, lisent des informations sur les écrans, saisissent des données, cliquent sur des options et traitent des données.
 
-Une fois installé, l'agent Desktop est configuré pour démarrer par défaut à la connexion Windows. Il peut s'exécuter en mode surveillé ou autonome. En mode surveillé, vous démarrez les automatisations en cliquant dessus, tandis qu'en mode autonome, elles s'exécutent automatiquement sans votre intervention.
+Les **projets d'automatisation** sont attribués aux locataires exécutés sur l'`agent Desktop`. Vous pouvez visualiser l'activité de votre `agent Desktop` grâce au menu pratique, accessible en permanence depuis la barre des tâches de votre ordinateur, lorsqu'il est prêt ou actif.
 
-L'agent Desktop vous permet d'exécuter et de surveiller vos projets, notamment :
+Une fois installé, l'`agent Desktop` est configuré pour démarrer par défaut à la connexion Windows. Il peut s'exécuter en mode surveillé ou autonome.
+
+- En mode surveillé, vous démarrez les automatisations en cliquant dessus.
+
+- En mode autonome, elles s'exécutent automatiquement sans votre intervention.
+
+L'`agent Desktop` vous permet d'**exécuter** et de **surveiller** vos projets, notamment :
 
 - Exécuter des projets
 
@@ -24,7 +30,7 @@ L'agent Desktop vous permet d'exécuter et de surveiller vos projets, notamment�
 
 - Collecter et gérer les traces
 
-Dans cette leçon, vous apprendrez à enregistrer l'agent Desktop et à exécuter le processus de votre projet.
+Dans cette leçon, vous apprendrez à enregistrer l'`agent Desktop` et à **exécuter** le **processus** de votre projet.
 
 ## :closed_book: UDOWNLOAD, INSTALL AND REGISTER THE DESKTOP AGENT
 
@@ -32,7 +38,7 @@ Dans cette leçon, vous apprendrez à enregistrer l'agent Desktop et à exécute
 
 Avant d'exécuter le projet, assurez-vous que votre Desktop Agent est enregistré dans votre locataire en mode autonome. Suivez les instructions étape par étape pour l'agent.
 
-Desktop Agent 3 est un composant sur site de SAP Build Process Automation, installé localement sur les postes de travail des utilisateurs. Il exécute des projets d'automatisation qui lancent et exécutent divers types d'applications, lisent des informations sur les écrans, saisissent des données, sélectionnent des options et traitent des données.
+Desktop Agent 3 est un composant sur site de SAP Build Process Automation, installé localement sur les postes de travail des utilisateurs. Il exécute des **projets d'automatisation** qui lancent et exécutent divers types d'applications, lisent des informations sur les écrans, saisissent des données, sélectionnent des options et traitent des données.
 
 La première fois que vous lancez Desktop Agent 3 sur des postes de travail de remplacement, vous serez invité à vous connecter. En cas de doute sur vos identifiants de connexion, veuillez contacter un administrateur.
 

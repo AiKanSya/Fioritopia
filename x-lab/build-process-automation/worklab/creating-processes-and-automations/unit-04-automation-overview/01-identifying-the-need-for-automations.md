@@ -2,15 +2,15 @@
 
 > :exclamation: Objectifs
 >
-> - [ ] Identify the need for automation in business processes
+> - [ ] Identifier le besoin d'automatisation dans les processus métier
 
 ## :closed_book: WHAT MAKES AUTOMATIONS IN SAP BUILD PROCESS AUTOMATION SPECIAL?
 
-Découvrons ensemble ce que sont les automatisations dans SAP Build Process Automation et comment elles se produisent.
+Découvrons ensemble ce que sont les **automatisations** dans `SAP Build Process Automation` et comment elles se produisent.
 
-L'automatisation robotisée des processus (RPA) accélère la transformation numérique des processus métier en répliquant automatiquement les actions fastidieuses à faible valeur ajoutée.
+L'`automatisation robotisée des processus (RPA)` accélère la transformation numérique des processus métier en répliquant automatiquement les actions fastidieuses à faible valeur ajoutée.
 
-En intégrant les chatbots, en utilisant des API plutôt que de simples éléments d'interface utilisateur, et en combinant le Machine Learning (ML) et l'IA, nous pouvons propulser la RPA à un niveau supérieur. Et le voyage ne fait que commencer.
+En intégrant les `chatbots`, en utilisant des API plutôt que de simples éléments d'interface utilisateur, et en combinant le `Machine Learning (ML)` et l'`IA`, nous pouvons propulser la `RPA` à un niveau supérieur. Et le voyage ne fait que commencer.
 
 ![](./assets/IRPA01_U1L1S2_What_Is_RPA_.png)
 
@@ -30,6 +30,6 @@ En général, les utilisateurs préfèrent consacrer leur temps au service clien
 
 ## :closed_book: BUSINESS VALUE OF AUTOMATIONS
 
-La valeur commerciale apportée par l’automatisation dans SAP Build Process Automation peut être décrite selon quatre perspectives différentes.
+La valeur commerciale apportée par l’automatisation dans `SAP Build Process Automation` peut être décrite selon quatre perspectives différentes.
 
 ![](./assets/U1L1S4_Business_Value_img.png)

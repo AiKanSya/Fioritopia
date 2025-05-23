@@ -1,18 +1,18 @@
-# ♠ 1 [BOOSTING THE SALES ORDER MANAGEMENT PROCESS WITH AN AUTOMATION](link)
+# ♠ 3 [BOOSTING THE SALES ORDER MANAGEMENT PROCESS WITH AN AUTOMATION](link)
 
 > :exclamation: Objectifs
 >
-> - [ ] Explain how bots are executed
+> - [ ] Expliquez comment les robots sont exécutés
 >
-> - [ ] Review the Automation Editor
+> - [ ] Consultez l'éditeur d'automatisation
 >
-> - [ ] Prepare the Excel file with sales order details
+> - [ ] Préparez le fichier Excel avec les détails de la commande client
 >
-> - [ ] Create and edit the automation
+> - [ ] Créer et modifier l'automatisation
 >
-> - [ ] Map the right order using a loop with conditions
+> - [ ] Cartographier le bon ordre à l'aide d'une boucle avec conditions
 >
-> - [ ] Finalize, test, simplify, release, and deploy the automation
+> - [ ] Finaliser, tester, simplifier, publier et déployer l'automatisation
 
 ## :closed_book: INTRODUCTION: BOOSTING BUSINESS PROCESSES WITH AUTOMATION
 

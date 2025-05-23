@@ -1,20 +1,20 @@
-# ♠ 1 [EVALUATING AUTOMATION USE CASES](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/evaluating-automation-use-cases_bea7b479-f776-419e-8b90-2f3ecf036e08)
+# ♠ 2 [EVALUATING AUTOMATION USE CASES](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/evaluating-automation-use-cases_bea7b479-f776-419e-8b90-2f3ecf036e08)
 
 > :exclamation: Objectifs
 >
-> - [ ] Evaluate use cases and determine when to build an automation for a customer’s business process
+> - [ ] Évaluer les cas d’utilisation et déterminer quand créer une automatisation pour le processus métier d’un client
 
 ## :closed_book: TYPICAL USE CASES FOR AUTOMATIONS
 
-Examinons quelques cas d'utilisation couverts par les automatisations dans SAP Build Process Automation. Parmi ceux-ci :
+Examinons quelques cas d'utilisation couverts par les automatisations dans `SAP Build Process Automation`. Parmi ceux-ci :
 
 - Extraire des données à l'aide de différents connecteurs et les intégrer à un système financier
 
 - Rechercher des numéros de facture dans d'innombrables instances ERP
 
-- Se connecter à plusieurs instances SAP ERP Central Component, collecter les demandes d'achat et les distribuer aux services partagés
+- Se connecter à plusieurs `instances SAP ERP Central Component`, collecter les demandes d'achat et les distribuer aux services partagés
 
-Les automatisations dans SAP Build Process Automation visent à optimiser l'efficacité des tâches. Par exemple, lors des pics d'activité, elles peuvent réduire les erreurs commises par le personnel, soumis à la pression de devoir saisir des quantités importantes d'informations dans un délai court.
+Les automatisations dans `SAP Build Process Automation` visent à optimiser l'efficacité des tâches. Par exemple, lors des pics d'activité, elles peuvent réduire les erreurs commises par le personnel, soumis à la pression de devoir saisir des quantités importantes d'informations dans un délai court.
 
 [Animated Course](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/evaluating-automation-use-cases_bea7b479-f776-419e-8b90-2f3ecf036e08)
 
