@@ -1,4 +1,4 @@
-# ♠ 1 [CALLING APIS OF REMOTE SYSTEMS USING ACTIONS IN A PROCESS](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/calling-apis-of-remote-systems-using-actions-in-a-process_e33106b5-2c6e-445a-8cc6-4dc9839c1cd5)
+# ♠ 3 [CALLING APIS OF REMOTE SYSTEMS USING ACTIONS IN A PROCESS](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/calling-apis-of-remote-systems-using-actions-in-a-process_e33106b5-2c6e-445a-8cc6-4dc9839c1cd5)
 
 > :exclamation: Objectifs
 >
@@ -8,11 +8,13 @@
 
 ### BUSINESS SCENARIO
 
-Vous et vos collègues développez un processus qui doit lire les données des commandes clients depuis votre système SAP S/4HANA et, ultérieurement, les réécrire dans le système. Vous êtes maintenant confronté au défi d'interagir avec ce système SAP S/4HANA. Pour résoudre ce problème, SAP Build Process Automation propose des projets Actions. Vous avez déjà créé un projet Actions qui encapsule le point de terminaison de l'API « Lire les commandes clients » de l'API SAP S/4HANA. Vous souhaitez maintenant utiliser l'action dans un processus. Pour cela, vous utiliserez le type d'étape Action. Comme le processus doit également pouvoir atteindre le système SAP S/4HANA, une destination est également requise.
+Vous et vos collègues développez un processus qui doit lire les données des commandes clients depuis votre `système SAP S/4HANA` et, ultérieurement, les réécrire dans le système. Vous êtes maintenant confronté au défi d'interagir avec ce `système SAP S/4HANA`.
+
+Pour résoudre ce problème, `SAP Build Process Automation` propose des **projets Actions**. Vous avez déjà créé un **projet Actions** qui **encapsule** le **point de terminaison** de l'**API** « Lire les commandes clients » de l'**API SAP S/4HANA**. Vous souhaitez maintenant utiliser l'**action** dans un **processus**. Pour cela, vous utiliserez le **type d'étape Action**. Comme le processus doit également pouvoir atteindre le `système SAP S/4HANA`, une **destination** est également requise.
 
 Lors de la connexion de systèmes distants à votre environnement SAP BTP, il est essentiel de leur créer une destination. Cette destination fait office d'adresse technique du système à connecter. Les destinations peuvent inclure des informations supplémentaires, telles que les identifiants d'authentification et d'autorisation d'accès.
 
-Dans cet exemple, vous souhaitez utiliser l'environnement API Sandbox de SAP Business Accelerator Hub comme proxy pour un système SAP S/4HANA Cloud.
+Dans cet exemple, vous souhaitez utiliser l'environnement API Sandbox de SAP Business Accelerator Hub comme proxy pour un `système SAP S/4HANA` Cloud.
 
 Pour en savoir plus sur l'appel d'API de systèmes distants à l'aide d'actions dans un processus, suivez ce tutoriel interactif.
 

@@ -2,17 +2,21 @@
 
 > :exclamation: Objectifs
 >
-> - [ ] Create and configure decision logic in the process
+> - [ ] Créer et configurer la logique de décision dans le processus
 >
-> - [ ] Update an existing process
+> - [ ] Mettre à jour un processus existant
 
 ## :closed_book: INTRODUCTION: IMPROVING THE PROCESS WITH DECISION LOGIC
 
-Vous allez maintenant apprendre à créer et configurer une décision. Une décision est composée d'une ou plusieurs politiques. Chaque politique est composée d'un ensemble de règles. Ces règles permettent d'automatiser les étapes décisionnelles d'un processus métier. Après avoir créé une décision (politique), vous définissez votre logique métier en y ajoutant des règles.
+Vous allez maintenant apprendre à créer et configurer une **décision**.
+
+Une **décision** est composée d'une ou plusieurs **politiques**. Chaque **politique** est composée d'un ensemble de **règles**. Ces **règles** permettent d'automatiser les **étapes décisionnelles** d'un processus métier.
+
+Après avoir créé une **décision** (politique), vous définissez votre **logique métier** en y ajoutant des **règles**.
 
 ![](./assets/SPA400_02_U5L1_001.png)
 
-Pour en savoir plus sur les décisions et les règles, regardez la vidéo suivante :
+Pour en savoir plus sur les **décisions** et les **règles**, regardez la vidéo suivante :
 
 [Link Video](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/improving-the-sales-order-management-process-with-decision-logic_e13b26bd-9ba6-48ba-a7f0-d8879c1bb14f)
 
