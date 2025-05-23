@@ -10,18 +10,19 @@ Ce repo est organisé autour de factories 🍧 (ateliers de production de code, 
 
      Fioritopia/
      │
-     ├── abap-factory/      🍧 Samples de code ABAP réutilisables
-     ├── cpi-factory/       🍧 Exemples de flux SAP CPI
-     ├── ui5-factory/       🍧 Composants et apps Fiori / SAPUI5
-     ├── x-lab/             🍧 Ressources d’apprentissage (SAP BTP, CPI, BPA)
-     │   ├── BTP/              🍧 Business Technology Platform
-     │   ├── CPI/              🍧 Cloud Platform Integration
-     │   ├── BPA/              🍧 Build Process Automation
-     │   ├── GUI/              🍧 Graphical User Interface
+     ├── 🍧 abap-factory/      # Samples de code ABAP réutilisables
+     ├── 🍧 cpi-factory/       # Exemples de flux SAP CPI
+     ├── 🍧 ui5-factory/       # Composants et apps Fiori / SAPUI5
+     ├── 🍧 x-lab/             # Ressources d’apprentissage (SAP BTP, CPI, BPA)
+     │   ├── 🍧 BPA/           # Build Process Automation
+     │   ├── 🍧 BAS/           # Business Application Studio
+     │   ├── 🍧 BTP/           # Business Technology Platform
+     │   ├── 🍧 CPI/           # Cloud Platform Integration
+     │   ├── 🍧 GUI/           # Graphical User Interface
      │   └── ...
-     ├── y-projects/        🍧 Tickets & mini-projets client
-     ├── z-apps/            🍧 Applications complètes et projets internes
-     └── README.md          🍧 Vous êtes ici 😄
+     ├── 🍧 y-projects/         # Tickets & mini-projets client
+     ├── 🍧 z-apps/             # Applications complètes et projets internes
+     └── 🍧 README.md           # Vous êtes ici 😄
 
 ## 🌸 Ressources associées
 
