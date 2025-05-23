@@ -1,8 +1,8 @@
-# ♠ 1 [IMPORTING AND EXPORTING SAP BUILD PROCESS AUTOMATION PROJECTS](link)
+# ♠ 4 [IMPORTING AND EXPORTING SAP BUILD PROCESS AUTOMATION PROJECTS](link)
 
 > :exclamation: Objectifs
 >
-> - [ ] Import and export SAP Build Process Automation projects when required to share or reuse them in other SAP Business Technology Platform accounts
+> - [ ] Importez et exportez des projets SAP Build Process Automation lorsque cela est nécessaire pour les partager ou les réutiliser dans d'autres comptes SAP Business Technology Platformojects when required to share or reuse them in other SAP Business Technology Platform accounts
 
 ## :closed_book: IMPORT AND EXPORT SAP BUILD PROCESS AUTOMATION PROJECTS
 

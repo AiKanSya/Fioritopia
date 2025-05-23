@@ -1,4 +1,4 @@
-# ♠ 1 [OUTLINED THE CONCEPT OF PROCESS VARIANTS IN LIVE PROCESS CONTENT](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/outlining-the-concept-of-process-variants-in-live-process-content_d4e1edfb-7086-4165-bada-1619c19964b5)
+# ♠ 3 [OUTLINED THE CONCEPT OF PROCESS VARIANTS IN LIVE PROCESS CONTENT](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/outlining-the-concept-of-process-variants-in-live-process-content_d4e1edfb-7086-4165-bada-1619c19964b5)
 
 > :exclamation: Objectifs
 >
@@ -6,7 +6,19 @@
 
 ## :closed_book: PROCESS VARIANTS IN LIVE PROCESS CONTENT
 
-[Link Video](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/outlining-the-concept-of-process-variants-in-live-process-content_d4e1edfb-7086-4165-bada-1619c19964b5)
+- [Référence - Link Video](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/outlining-the-concept-of-process-variants-in-live-process-content_d4e1edfb-7086-4165-bada-1619c19964b5)
+
+  ![](./assets/Capture%20d’écran%202025-05-23%20123930.png)
+
+  ![](./assets/Capture%20d’écran%202025-05-23%20124018.png)
+
+  ![](./assets/Capture%20d’écran%202025-05-23%20124059.png)
+
+  ![](./assets/Capture%20d’écran%202025-05-23%20124131.png)
+
+  ![](./assets/Capture%20d’écran%202025-05-23%20124240.png)
+
+  ![](./assets/Capture%20d’écran%202025-05-23%20124349.png)
 
 ![](./assets/U2L2_Process_Variants_001.png)
 
@@ -54,7 +66,13 @@ Le processus d'approbation des dépenses d'investissement, par exemple, contient
 
 ![](./assets/U2L2_Process_Variants_008.png)
 
-[Link Video](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/outlining-the-concept-of-process-variants-in-live-process-content_d4e1edfb-7086-4165-bada-1619c19964b5)
+- [Référence - Link Video](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/outlining-the-concept-of-process-variants-in-live-process-content_d4e1edfb-7086-4165-bada-1619c19964b5)
+
+  ![](./assets/Capture%20d’écran%202025-05-23%20125147.png)
+
+  ![](./assets/Capture%20d’écran%202025-05-23%20125227.png)
+
+  ![](./assets/Capture%20d’écran%202025-05-23%20125304.png)
 
 Un modèle de processus livré contient des étapes et une variante de processus préconfigurée. Les étapes constituent des blocs de construction assemblables de manière modulaire pour former un processus. Chaque étape peut être soumise à des contraintes. Ces contraintes spécifient le nombre minimal et maximal d'occurrences d'une étape au sein d'une variante. De plus, la position d'une étape au sein d'une variante peut être soumise à des contraintes. Ainsi, certaines étapes ne peuvent être placées qu'au début ou à la fin d'un processus.
 

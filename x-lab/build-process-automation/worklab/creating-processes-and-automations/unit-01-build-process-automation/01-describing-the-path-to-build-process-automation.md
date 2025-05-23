@@ -12,13 +12,13 @@
 
 Si vous ou votre entreprise avez déjà utilisé `SAP Workflow Management`[^1] ou `SAP Intelligent Robotic Process Automation`[^2], vous recherchez une solution intégrée. Heureusement, SAP Build Process Automation est entièrement compatible avec tous les artefacts de workflow et d'automatisation que vous avez créés.
 
-[Référence - Link Video](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/describing-the-path-to-sap-build-process-automation_b937f72a-1d68-4203-8c88-e5e03c210aa7)
+- [Référence - Link Video](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/describing-the-path-to-sap-build-process-automation_b937f72a-1d68-4203-8c88-e5e03c210aa7)
 
-![](./assets/Capture%20d’écran%202025-05-23%20081647.png)
+  ![](./assets/Capture%20d’écran%202025-05-23%20081647.png)
 
-![](./assets/Capture%20d’écran%202025-05-23%20081835.png)
+  ![](./assets/Capture%20d’écran%202025-05-23%20081835.png)
 
-![](./assets/Capture%20d’écran%202025-05-23%20081949.png)
+  ![](./assets/Capture%20d’écran%202025-05-23%20081949.png)
 
 ---
 
