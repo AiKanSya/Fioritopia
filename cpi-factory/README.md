@@ -1,3 +1,3 @@
-# CPI FACTORY
+# 🌸 CPI FACTORY
 
-> CPI Samples
+> 🍧 CPI Samples

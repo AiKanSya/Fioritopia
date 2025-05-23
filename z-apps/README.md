@@ -1,3 +1,3 @@
-# Z-APPS
+# 🌸 Z-APPS
 
-> Apps & programs
+> 🍧 Apps & programs

@@ -74,7 +74,7 @@ Vous pouvez manipuler :
 
 La classe _com.sap.gateway.ip.core.customdev.util.Message_ propose des **méthodes** pour **manipuler les paramètres**.
 
-![](./RESSOURCES/CLD900_20_U4L4_003_scr.png)
+![](./assets/CLD900_20_U4L4_003_scr.png)
 
 La même chose s'applique à **JavaScript**.
 

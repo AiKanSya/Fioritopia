@@ -1,3 +1,3 @@
-# Y-PROJECTS
+# 🌸 Y-PROJECTS
 
-> Customer projects
+> 🍧 Customer projects
