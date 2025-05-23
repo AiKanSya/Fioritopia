@@ -1,21 +1,22 @@
-# ♠ 1 [RELEASING, DEPLOYING, RUNNING AND MONITORING THE PROCESS](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/releasing-deploying-running-and-monitoring-the-process_adf38db3-e91e-4c64-a3bb-5d2a8fb93325)
+# ♠ 5 [RELEASING, DEPLOYING, RUNNING AND MONITORING THE PROCESS](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/releasing-deploying-running-and-monitoring-the-process_adf38db3-e91e-4c64-a3bb-5d2a8fb93325)
 
 > :exclamation: Objectifs
 >
-> - [ ] Release, deploy, run, and monitor your process
+> - [ ] Libérez, déployez, exécutez et surveillez votre processus
 >
-> - [ ] Monitor the new process
+> - [ ] Surveiller le nouveau processus
 
 ## :closed_book: RELEASING, DEPLOYING, RUNNING AND MONITORING THE PROCESS
 
-Une fois votre processus modélisé avec différents formulaires, il est temps de l'exécuter. Avant de pouvoir exécuter votre projet de processus, vous devez d'abord le publier et le déployer.
+Une fois votre **processus** modélisé avec différents formulaires, il est temps de l'exécuter. Avant de pouvoir exécuter votre projet de processus, vous devez d'abord le **publier** et le **déployer**.
 
-- La première étape consiste à publier un projet de processus, ce qui crée un instantané de son état actuel et lui attribue un numéro de version dédié. Si vous publiez votre projet de processus pour la première fois, le numéro de version sera 1.0.0.
+- La première étape consiste à **publier un projet de processus**, ce qui crée un instantané de son état actuel et lui attribue un numéro de version dédié. Si vous publiez votre projet de processus pour la première fois, le numéro de version sera 1.0.0.
 
-- Le déploiement de votre projet de processus ne peut être effectué qu'après sa publication. Ce déploiement le rend disponible pour d'autres utilisateurs. Veuillez noter que vous ne pouvez pas modifier les projets de processus publiés ou déployés. Si vous devez modifier un projet de processus déjà publié et le déployer, vous devrez le modifier, puis le publier à nouveau et le redéployer.
+- Le **déploiement** de votre projet de processus ne peut être effectué qu'après sa publication. Ce déploiement le rend disponible pour d'autres utilisateurs. Veuillez noter que vous ne pouvez pas modifier les projets de processus publiés ou déployés. Si vous devez modifier un projet de processus déjà publié et le déployer, vous devrez le modifier, puis le publier à nouveau et le redéployer.
 
 - L'exécution du processus indiquera que le workflow a été déclenché et que le projet de processus d'approbation a démarré. Pour ce faire, ouvrez le générateur de processus de la version déployée et choisissez le formulaire pour accéder à l'URL accessible depuis le navigateur web.
-  Maintenant que votre projet de processus est en cours d'exécution, nous devons suivre son bon fonctionnement. La surveillance des processus métier est essentielle à une automatisation réussie. Grâce aux fonctionnalités de surveillance, vous pouvez surveiller de manière proactive et cohérente les performances des processus, identifier les problèmes du projet et prendre les mesures nécessaires pour assurer la continuité des processus métier.
+
+> Maintenant que votre projet de processus est en cours d'exécution, nous devons suivre son bon fonctionnement. La surveillance des processus métier est essentielle à une automatisation réussie. Grâce aux fonctionnalités de surveillance, vous pouvez surveiller de manière proactive et cohérente les performances des processus, identifier les problèmes du projet et prendre les mesures nécessaires pour assurer la continuité des processus métier.
 
 ![Animated Course](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/releasing-deploying-running-and-monitoring-the-process_adf38db3-e91e-4c64-a3bb-5d2a8fb93325)
 

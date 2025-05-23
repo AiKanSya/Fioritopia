@@ -1,22 +1,24 @@
-# ♠ 1 [USING CONDITIONS TO CONTROL THE PROCESS FLOW](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/using-conditions-to-control-the-process-flow_df45b353-142d-42a3-91e4-4c8d13a1aace)
+# ♠ 4 [USING CONDITIONS TO CONTROL THE PROCESS FLOW](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/using-conditions-to-control-the-process-flow_df45b353-142d-42a3-91e4-4c8d13a1aace)
 
 > :exclamation: Objectifs
 >
-> - [ ] Create and configure process conditions
+> - [ ] Créer et configurer les conditions du processus
 >
-> - [ ] Create a Process Condition and adjust the process flow
+> - [ ] Créer une condition de processus et ajuster le flux de processus
 
 ## :closed_book: USING CONDITIONS TO CONTROL THE FLOW IN AN OVERVIEW
 
 ### INTRODUCTION
 
-Parfois, un processus n'est pas seulement un flux séquentiel d'étapes, mais il se ramifie selon la situation métier. Dans cette leçon, vous apprendrez à ajouter une condition de processus qui oriente le processus métier selon certains critères. Ces conditions appliquent une règle « Si/Sinon », et le processus métier répond selon les règles définies dans les paramètres de condition du processus. Ainsi, lorsque l'expression « Si » définit une condition, l'expression « Sinon » contient les instructions concernant la marche à suivre si la condition n'est pas remplie.
+Parfois, un processus n'est pas seulement un flux séquentiel d'étapes, mais il se ramifie selon la situation métier.
 
-Avec SAP Build Process Automation, vous pouvez automatiser votre processus pour emprunter différents chemins conditionnels sans écrire une seule ligne de code. Nous allons maintenant vous montrer comment procéder. Vous utiliserez des conditions de processus pour supprimer les approbations inutiles en acheminant le processus vers l'approbation automatique, ou vers un flux d'approbation en une seule étape, en fonction des critères de la commande client. Par exemple, une commande client inférieure à une certaine valeur, comme 50 000, ne nécessite pas d'approbation, et toutes les autres commandes client seront soumises à une approbation à un seul niveau.
+Dans cette leçon, vous apprendrez à ajouter une **condition de processus** qui oriente le processus métier selon certains critères. Ces conditions appliquent une **règle « Si/Sinon »**, et le processus métier répond selon les règles définies dans les paramètres de condition du processus. Ainsi, lorsque l'expression « Si » définit une condition, l'expression « Sinon » contient les instructions concernant la marche à suivre si la condition n'est pas remplie.
+
+Avec `SAP Build Process Automation`, vous pouvez automatiser votre processus pour emprunter différents **chemins conditionnels** sans écrire une seule ligne de code. Vous utiliserez des conditions de processus pour supprimer les approbations inutiles en acheminant le processus vers l'approbation automatique, ou vers un flux d'approbation en une seule étape, en fonction des critères de la commande client. Par exemple, une commande client inférieure à une certaine valeur, comme 50 000, ne nécessite pas d'approbation, et toutes les autres commandes client seront soumises à une approbation à un seul niveau.
 
 ### CREATING AND CONFIGURING A PROCESS CONDITION
 
-[Link Video](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/using-conditions-to-control-the-process-flow_df45b353-142d-42a3-91e4-4c8d13a1aace)
+[Référence - Link Video](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/using-conditions-to-control-the-process-flow_df45b353-142d-42a3-91e4-4c8d13a1aace)
 
 Maintenant que vous avez conçu un processus avec des formulaires et une automatisation, définissons quel flux de processus doit s'exécuter en fonction des conditions If/Else qui déterminent quel flux de processus est exécuté et s'il y aura une approbation automatique ou un itinéraire d'approbation en une étape.
 

@@ -2,7 +2,7 @@
 
 > :exclamation: Objectifs
 >
-> - [ ] Outline the concept of Process Variants in Live Process Content
+> - [ ] Décrire le concept de variantes de processus dans le contenu du processus en direct
 
 ## :closed_book: PROCESS VARIANTS IN LIVE PROCESS CONTENT
 

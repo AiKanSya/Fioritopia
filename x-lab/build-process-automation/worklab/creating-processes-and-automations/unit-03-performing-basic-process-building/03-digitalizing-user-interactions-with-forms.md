@@ -1,36 +1,36 @@
-# ♠ 1 [DIGITALIZING USER INTERACTIONS WITH FORMS](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/digitalizing-user-interactions-with-forms_d0e78947-8cff-45f0-9b85-d82c1ed0394e)
+# ♠ 3 [DIGITALIZING USER INTERACTIONS WITH FORMS](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation/digitalizing-user-interactions-with-forms_d0e78947-8cff-45f0-9b85-d82c1ed0394e)
 
 > :exclamation: Objectifs
 >
-> - [ ] Add interactive forms in the process you are building
+> - [ ] Ajoutez des formulaires interactifs dans le processus que vous créez
 >
-> - [ ] Define different forms for triggers, approvals, and notifications
+> - [ ] Définir différents formulaires pour les déclencheurs, les approbations et les notifications
 
 ## :closed_book: DIGITALIZE USER INTERACTIONS WITH FORMS
 
-Vous avez probablement constaté que de nombreuses tâches dans votre environnement professionnel, telles que les révisions, les approbations et les validations, sont encore attribuées aux employés par courrier électronique ou par courrier électronique. Ces tâches sont essentielles à tout processus métier, mais elles sont inefficaces et lentes.
+Vous avez probablement constaté que de nombreuses tâches dans votre environnement professionnel, telles que les _révisions_, les _approbations_ et les _validations_, sont encore attribuées aux employés par courrier électronique. Ces tâches sont essentielles à tout **processus métier**, mais elles sont inefficaces et lentes.
 
-Les formulaires sont un moyen courant de rationaliser ces activités. Une fois créé, vous pouvez l'utiliser pour déclencher un processus ou ajouter une étape d'approbation.
+Les _formulaires_ sont un moyen courant de rationaliser ces activités. Une fois créé, vous pouvez l'utiliser pour déclencher un processus ou ajouter une étape d'_approbation_.
 
-Examinons le formulaire déclencheur. Il constitue le point de départ de votre processus métier.
+Examinons le _formulaire_ déclencheur. Il constitue le point de départ de votre **processus métier**.
 
 Vous pouvez définir trois types de déclencheurs :
 
-- Un déclencheur d'événement dans SAP Business Process Automation (SBPA) vous permet d'automatiser et de déclencher diverses actions en fonction des événements de vos processus métier. Le déclencheur d'événement intègre et écoute les événements back-end émis par un système source externe, et réagit à ces événements en déclenchant des artefacts tels que des processus et des automatisations.
+- Un **déclencheur d'événement** dans `SAP Business Process Automation (SBPA)` vous permet d'**automatiser** et de **déclencher** diverses actions en fonction des **événements** de vos **processus métier**. Le déclencheur d'événement intègre et écoute les événements back-end émis par un système source externe, et réagit à ces événements en déclenchant des **artefacts** tels que des processus et des automatisations.
 
-- Utiliser un formulaire comme déclencheur de processus vous permet d'utiliser un lien direct vers le formulaire publié pour démarrer. Alternativement, vous pouvez intégrer le déclencheur de démarrage dans une tuile dans l'édition SAP Workzone avec les paramètres donnés :
+- Utiliser un **formulaire** comme **déclencheur** de processus vous permet d'utiliser un lien direct vers le _formulaire_ publié pour démarrer. Alternativement, vous pouvez intégrer le **déclencheur de démarrage** dans une tuile dans l'`édition SAP Workzone` avec les paramètres donnés :
 
   ![](./assets/SAP400_01_U3L4_01_scr.png)
 
-- En utilisant un appel d'API comme déclencheur de processus, vous pouvez démarrer votre processus métier via un appel d'API. Pour ce faire, vous devez définir les paramètres d'entrée requis et les réutiliser, par exemple, comme champs de saisie :
+- En utilisant un **appel d'API** comme **déclencheur** de processus, vous pouvez démarrer votre **processus métier** via un **appel d'API**. Pour ce faire, vous devez définir les paramètres d'entrée requis et les réutiliser, par exemple, comme champs de saisie :
 
   ![](./assets/SAP400_01_U3L4_02_scr.png)
 
-- Grâce à un déclencheur d'événement dans SAP Business Process Automation (SBPA), vous pouvez automatiser et déclencher diverses actions en fonction des événements de vos processus métier. Le déclencheur d'événement intègre et écoute les événements back-end émis par un système source externe, et réagit à ces événements en déclenchant des artefacts tels que des processus et des automatisations.
+- Grâce à un **déclencheur d'événement** dans `SAP Business Process Automation (SBPA)`, vous pouvez automatiser et déclencher diverses actions en fonction des événements de vos **processus métier**. Le **déclencheur d'événement** intègre et écoute les événements back-end émis par un système source externe, et réagit à ces événements en déclenchant des **artefacts** tels que des processus et des automatisations.
 
   ![](./assets/SAP400_01_U3L4_06_scr.png)
 
-> Après avoir défini votre formulaire déclencheur, ajoutez des formulaires d'approbation à votre processus métier grâce à la fonctionnalité glisser-déposer de l'outil de création de formulaires. Les formulaires d'approbation servent à collecter et à partager des informations. Ainsi, vous simplifiez et accélèrez les processus d'approbation des utilisateurs métier. Les formulaires d'approbation offrent automatiquement le choix d'approuver ou de rejeter la demande, avec notification correspondante.
+> Après avoir défini votre formulaire déclencheur, ajoutez des formulaires d'approbation à votre **processus métier** grâce à la fonctionnalité glisser-déposer de l'outil de création de formulaires. Les formulaires d'approbation servent à collecter et à partager des informations. Ainsi, vous simplifiez et accélèrez les processus d'approbation des utilisateurs métier. Les formulaires d'approbation offrent automatiquement le choix d'approuver ou de rejeter la demande, avec notification correspondante.
 
 Vous disposez de différentes options pour configurer les formulaires d'approbation et ajouter des informations supplémentaires :
 
@@ -50,9 +50,9 @@ Vous disposez de différentes options pour configurer les formulaires d'approbat
 
 ### BUSINESS SCENARIO
 
-La première étape du développement de votre processus métier consiste à créer un formulaire déclencheur qui servira de point de départ au processus. Pour cela, utilisez l'outil de création de processus.
+La première étape du développement de votre **processus métier** consiste à créer un **formulaire déclencheur** qui servira de point de départ au processus. Pour cela, utilisez l'outil de création de processus.
 
-Pour en savoir plus sur la création d'un formulaire déclencheur, suivez ce tutoriel interactif.
+Pour en savoir plus sur la création d'un **formulaire déclencheur**, suivez ce tutoriel interactif.
 
 ### TASK FLOW
 
@@ -64,7 +64,7 @@ Dans cet exercice, vous effectuerez les étapes suivantes :
 
 - Utiliser le formulaire déclencheur pour les configurations internes.
 
-- Pour en savoir plus sur la création d'un formulaire pour déclencher un processus métier, suivez ce tutoriel interactif.
+- Pour en savoir plus sur la création d'un formulaire pour déclencher un **processus métier**, suivez ce tutoriel interactif.
 
 ### EXERCISE OPTIONS
 
@@ -82,7 +82,7 @@ Une fenêtre contextuelle s'ouvre. Vous disposez des options suivantes :
 
 ### STEPS
 
-1. Créez un formulaire pour déclencher un processus métier.
+1. Créez un formulaire pour déclencher un **processus métier**.
 
 2. Choisissez Ajouter un déclencheur.
 
@@ -154,7 +154,7 @@ Une fenêtre contextuelle s'ouvre. Vous disposez des options suivantes :
 
 ### RESULT
 
-Vous avez maintenant créé avec succès un formulaire pour déclencher un processus métier.
+Vous avez maintenant créé avec succès un formulaire pour déclencher un **processus métier**.
 
 ## :closed_book: CREATE AND CONFIGURE AN APPROVAL FORM
 
