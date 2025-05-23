@@ -2,7 +2,7 @@
 
 > :exclamation: Objectifs
 >
-> - [ ] Leverage the SAP Build Process Automation Application Programming Interfaces
+> - [ ] Exploitez les APIS d'automatisation des processus de construction SAP
 
 ## :closed_book: SAP BUILD PROCESS AUTOMATION APPLICATION PROGRAMMING INTERFACES
 
@@ -10,7 +10,7 @@
 
 ![](./assets/SPA400_01_Lev_API_05.png)
 
-Naturellement, la plupart des applications et services basés et exécutés dans le cloud s'appuient sur des API REST :
+Naturellement, la plupart des applications et services basés et exécutés dans le cloud s'appuient sur des **API REST** :
 
 #### :small_red_triangle_down: REST (= Representational state transfer) :
 
@@ -20,17 +20,19 @@ est un style architectural qui définit certaines directives et contraintes pour
 
 définissent comment les composants peuvent être contactés par d'autres composants afin de déclencher certaines fonctionnalités.
 
-> Les utilisateurs finaux n'accèdent généralement pas directement aux API REST des applications et services cloud. Ils utilisent généralement une application dotée d'une interface utilisateur graphique (GUI) et composent les informations pertinentes à partir d'autres applications et composants cloud, grâce aux API REST. Ainsi, les API REST sont invisibles pour l'utilisateur final. Cependant, la situation peut être différente pour les développeurs ou les administrateurs, qui peuvent souhaiter utiliser ou tester des fonctionnalités non disponibles dans une application dotée d'une interface utilisateur graphique.
+> Les utilisateurs finaux n'accèdent généralement pas directement aux **API REST** des applications et services cloud. Ils utilisent généralement une application dotée d'une interface utilisateur graphique (GUI) et composent les informations pertinentes à partir d'autres applications et composants cloud, grâce aux **API REST**. Ainsi, les **API REST** sont invisibles pour l'utilisateur final. Cependant, la situation peut être différente pour les développeurs ou les administrateurs, qui peuvent souhaiter utiliser ou tester des fonctionnalités non disponibles dans une application dotée d'une interface utilisateur graphique.
 
-Au cours du processus de développement, le développeur peut avoir besoin de tester ou de simuler les fonctionnalités individuelles de certains composants, indépendamment d'autres composants pertinents pour le système ou l'architecture globale. Par exemple, le développeur travaille sur un nouveau processus d'approbation des demandes d'absence. Dans un scénario productif, le processus est censé être déclenché par une application développée par une autre équipe. L'application appellera une API REST de SAP Build Process Automation afin de déclencher le processus d'approbation des absences. L'application n'étant pas encore existante, le développeur souhaite déclencher l'API REST manuellement pendant le développement à des fins de test. Pour ce faire, il peut utiliser un client REST.
+Au cours du processus de développement, le développeur peut avoir besoin de tester ou de simuler les fonctionnalités individuelles de certains composants, indépendamment d'autres composants pertinents pour le système ou l'architecture globale. Par exemple, le développeur travaille sur un nouveau processus d'approbation des demandes d'absence.
 
-Un client REST est un outil qui simplifie la communication technique avec les API REST. Il fournit une interface aux protocoles de communication techniques requis, tels que HTTPS, et facilite leur utilisation.
+Dans un scénario productif, le **processus** est censé être **déclenché** par une **application** développée par une autre équipe. L'application appellera une **API REST** de `SAP Build Process Automation` afin de déclencher le **processus d'approbation des absences**. L'application n'étant pas encore existante, le développeur souhaite déclencher l'**API REST** manuellement pendant le développement à des fins de test. Pour ce faire, il peut utiliser un **client REST**.
 
-Un autre rôle susceptible d'intéresser les clients REST dans le contexte de SAP Build Process Automation est celui d'opérateur ou d'administrateur. Ce rôle administre, traite et peut être amené à effectuer des tâches ponctuelles, comme des tâches de nettoyage. De nombreuses fonctions d'administration et d'exploitation de SAP Build Process Automation sont disponibles via les applications « Surveiller les instances de processus et de workflow » et « Gérer les processus et les workflows », mais certaines fonctions ne sont accessibles que via l'API REST.
+Un **client REST** est un outil qui simplifie la communication technique avec les **API REST**. Il fournit une interface aux protocoles de communication techniques requis, tels que HTTPS, et facilite leur utilisation.
+
+Un autre rôle susceptible d'intéresser les **clients REST** dans le contexte de `SAP Build Process Automation` est celui d'opérateur ou d'administrateur. Ce rôle administre, traite et peut être amené à effectuer des tâches ponctuelles, comme des tâches de nettoyage. De nombreuses fonctions d'administration et d'exploitation de `SAP Build Process Automation` sont disponibles via les applications « Surveiller les instances de processus et de workflow » et « Gérer les processus et les workflows », mais certaines fonctions ne sont accessibles que via l'**API REST**.
 
 ### DISCOVERING SAP BUILD PROCESS AUTOMATIONS APIS IN SAP BUSINESS ACCELERATOR HUB
 
-En accédant au [SAP API Business Hub](https://api.sap.com/) (lien bientôt remplacé) et en recherchant le produit SAP Build Process Automation, vous trouverez le package d'API correspondant. Vous trouverez ci-dessous les différentes API qu'il contient, ainsi qu'un exemple d'utilisation de chacune d'elles.
+En accédant au [SAP API Business Hub](https://api.sap.com/) (lien bientôt remplacé) et en recherchant le produit `SAP Build Process Automation`, vous trouverez le package d'API correspondant. Vous trouverez ci-dessous les différentes API qu'il contient, ainsi qu'un exemple d'utilisation de chacune d'elles.
 
 ![](./assets/SPA400_01_Lev_API_04_scr.png)
 
@@ -44,7 +46,7 @@ Récupérez les journaux des automatisations passées et administrez-les dans un
 
 #### :small_red_triangle_down: Decisions :
 
-Exécutez un service de règles à l'aide d'un client REST pour vérifier qu'il produit les résultats escomptés.
+Exécutez un service de règles à l'aide d'un **client REST** pour vérifier qu'il produit les résultats escomptés.
 
 #### :small_red_triangle_down: Inbox :
 
@@ -66,7 +68,7 @@ Obtenez un aperçu des scénarios de visibilité auxquels un utilisateur spécif
 
 Imaginons que vous souhaitiez savoir comment déclencher un nouveau processus ou une nouvelle instance de workflow à l'aide des API SAP Build Process Automation.
 
-Dans le package API SAP Build Process Automation, sélectionnez l'API REST Workflows. Vous obtiendrez une présentation et une description de l'API REST.
+Dans le **package API** `SAP Build Process Automation`, sélectionnez l'**API REST** Workflows. Vous obtiendrez une présentation et une description de l'**API REST**.
 
 ![](./assets/SPA400_01_Lev_API_03_scr.png)
 
