@@ -16,7 +16,7 @@
 >
 > - Définissez tous les **détails supplémentaires** nécessaires pour **établir la connexion**, par exemple les paramètres de proxy[^1].
 >
-> ![](./RESSOURCES/CLD900_20_U3L3_001.png)
+> ![](./assets/CLD900_20_U3L3_001.png)
 >
 > Un [API Provider](../☼%20UNIT%200%20-%20Lexicon/♠%20API%20Provider.md) peut se connecter aux sources suivantes :
 >
@@ -36,15 +36,15 @@ Les étapes suivantes doivent être effectuées dans l'ordre :
 
 1.  Démarrez le **wizard** (l'assistant) en allant dans [Configure] → [APIs] → [API Provides] → [Create] :
 
-    ![](./RESSOURCES/CLD900_U3_L3_05.png)
+    ![](./assets/CLD900_U3_L3_05.png)
 
 2.  Dans l'onglet [Overview], entrer un [Name] et une [Description].
 
-    ![](./RESSOURCES/CLD900_U3_L3_06.png)
+    ![](./assets/CLD900_U3_L3_06.png)
 
 3.  Dans l'onglet [Connection], Entrer les **données de connection**.
 
-    ![](./RESSOURCES/CLD900_U3_L3_07.png)
+    ![](./assets/CLD900_U3_L3_07.png)
 
     > :pushpin: Note:
     >
@@ -64,7 +64,7 @@ Les étapes suivantes doivent être effectuées dans l'ordre :
 
 4.  Dans l'onglet [Catalog Service Settings], saisissez les **Catalog Service Settings data** (données Paramètres du service de catalogue).
 
-    ![](./RESSOURCES/CLD900_U3_L3_08.png)
+    ![](./assets/CLD900_U3_L3_08.png)
 
     Les informations de **Path** (n°1) sont **standardisées** dans **SAP S/4HANA**. Le **catalog service** et le **Path** (chemin d'accès) se trouvent dans la _transaction_ **[/n/IWFND/MAINT_SERVICE]** sur le système backend SAP. Une autorisation de base est requise pour accéder au **catalog server**.
 
@@ -72,9 +72,9 @@ Les étapes suivantes doivent être effectuées dans l'ordre :
 
     Lorsque vous [save] les entrées, l'[API Provider](../☼%20UNIT%200%20-%20Lexicon/♠%20API%20Provider.md) créé peut être **testé**. Pour ce faire, utilisez d'abord le bouton [save] → [Test Connection].
 
-    ![](./RESSOURCES/CLD900_U3_L3_09.png)
+    ![](./assets/CLD900_U3_L3_09.png)
 
-    ![](./RESSOURCES/CLD900_U3_L3_10.png)
+    ![](./assets/CLD900_U3_L3_10.png)
 
     En fonction du **type**, un test réussi aura l'un des résultats suivants :
 
@@ -82,13 +82,13 @@ Les étapes suivantes doivent être effectuées dans l'ordre :
 
       Le code d'état **HTTP 200** signifie que la connexion au système backend est correctement configurée :
 
-      ![](./RESSOURCES/CLD900_20_U3L3_007_scr.png)
+      ![](./assets/CLD900_20_U3L3_007_scr.png)
 
     - #### 💮 **Type Open Connectors and Cloud integration** :
 
       Le statut code http n'est pas 200 mais reste correct car c'est un ping :
 
-      ![](./RESSOURCES/CLD900_20_U3L3_008_scr.png)
+      ![](./assets/CLD900_20_U3L3_008_scr.png)
 
 ### SOURCES
 

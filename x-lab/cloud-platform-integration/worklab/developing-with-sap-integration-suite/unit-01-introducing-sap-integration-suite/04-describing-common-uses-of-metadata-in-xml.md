@@ -22,7 +22,7 @@ La fonctionnalité de **metadata** remplit plusieurs fonctions importantes, en p
 
 - _Keywords_: répertorie les mots-clés pertinents pour le document, facilitant ainsi la recherche et la catégorisation.
 
-![](./RESSOURCES/descriptive_information_exam.png)
+![](./assets/descriptive_information_exam.png)
 
 ### STRUCTURAL INFORMATION
 
@@ -32,7 +32,7 @@ La fonctionnalité de **metadata** remplit plusieurs fonctions importantes, en p
 
 - _Namespaces_: déclare les espaces de noms XML utilisés dans le document, garantissant que les noms d'éléments et d'attributs sont uniques et évitant les conflits.
 
-![](./RESSOURCES/structural_information_example.png)
+![](./assets/structural_information_example.png)
 
 ### ADMINISTRATIVE INFORMATION
 
@@ -46,7 +46,7 @@ La fonctionnalité de **metadata** remplit plusieurs fonctions importantes, en p
 
 - _Access Rights_: définit qui peut accéder ou modifier le document.
 
-![](./RESSOURCES/admin_information_exam.png)
+![](./assets/admin_information_exam.png)
 
 ### TECHNICAL INFORMATION
 
@@ -58,7 +58,7 @@ La fonctionnalité de **metadata** remplit plusieurs fonctions importantes, en p
 
 - _Checksum_: fournit une valeur de checksum (somme de contrôle) pour vérifier l'intégrité du document.
 
-![](./RESSOURCES/technical_information_example.png)
+![](./assets/technical_information_example.png)
 
 ### PROVENANCE INFORMATION
 
@@ -68,7 +68,7 @@ La fonctionnalité de **metadata** remplit plusieurs fonctions importantes, en p
 
 - _History_: enregistre les modifications et les mises à jour apportées au document au fil du temps.
 
-![](./RESSOURCES/provenance_information_example.png)
+![](./assets/provenance_information_example.png)
 
 ### RIGHTS MANAGEMENT
 
@@ -80,7 +80,7 @@ La fonctionnalité de **metadata** remplit plusieurs fonctions importantes, en p
 
 - _Usage Restrictions_: répertorie toutes les restrictions sur l'utilisation ou la distribution du document.
 
-![](./RESSOURCES/rights_management_example.png)
+![](./assets/rights_management_example.png)
 
 ### ENHANCING METADATA IN ODATA SERVICES
 
@@ -91,9 +91,9 @@ Pour utiliser la fonctionnalité **$metadata**, utilisez l'URL GET suivante, où
 xml
 http://<yourAPI>:<PORT>/$metadata
 
-![](./RESSOURCES/gwsample_xml_sample.png)
+![](./assets/gwsample_xml_sample.png)
 
-![](./RESSOURCES/metadata_from_gwsample.png)
+![](./assets/metadata_from_gwsample.png)
 
 ### SUMMARY
 

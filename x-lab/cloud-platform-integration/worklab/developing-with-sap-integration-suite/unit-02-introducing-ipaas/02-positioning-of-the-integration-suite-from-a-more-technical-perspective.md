@@ -10,7 +10,7 @@
 
 Ce qui suit montre la **SAP Integration Suite** avec ses principales capacités.
 
-![](./RESSOURCES/integrationsuite_overview.png)
+![](./assets/integrationsuite_overview.png)
 
 ### THE CAPABILITIES ARE AS FOLLOWS
 
@@ -82,7 +82,7 @@ Tirez parti d'une **crowdsourced machine learning method** (méthode d'apprentis
 
 2. _Utilisez les API RESTful et JSON_ pour votre travail : bénéficiez des **open data formats**, quelle que soit l'**underlying architecture** (architecture sous-jacente) des **services tiers**.
 
-3. *Convertir les champs de données* : appliquez les **shared resource definitions** (définitions de ressources partagées) d'une ou de plusieurs applications tierces à un **format standardisé**.
+3. *Convertir les champs de données* : appliquez les **shared resource definitions** (définitions de assets partagées) d'une ou de plusieurs applications tierces à un **format standardisé**.
 
 4. Prise en charge des _bulk data operations_ (opérations de données en masse) : normalisez le processus de chargement et de téléchargement de données, quelle que soit l'**underlying service architecture** (architecture de service sous-jacente).
 
@@ -96,7 +96,7 @@ Faites passer votre environnement de **SAP Process Orchestration** à **SAP Inte
 
 3. *Expertise in implementation* : utilisez le **migration assessment tool** (l'outil de d'évaluation de la migration) et le **migration tool** (l'outil de migration) pour offrir aux utilisateurs SAP une expérience moderne et conviviale, accélérant ainsi le processus de migration.
 
-![](./RESSOURCES/capabilities_integrationsuite.png)
+![](./assets/capabilities_integrationsuite.png)
 
 ### THE ADD-ON CAPABILITIES ARE AS FOLLOWS
 
@@ -124,7 +124,7 @@ Gestion des produits logiciels entre comptes dans différents environnements en 
 
 **Jumpstart** pour les projets d'intégration avec des [API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md), du **packaged integration content** (contenu d'intégration packagé) et des **adaptateurs**[^2].
 
-![](./RESSOURCES/businessacceleratorhub.png)
+![](./assets/businessacceleratorhub.png)
 
 ### RESOURCES
 

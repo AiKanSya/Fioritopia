@@ -11,7 +11,7 @@
 Les **Products** sont des [artefacts](../☼%20UNIT%200%20-%20Lexicon/♠%20Artefacts.md) qui apparaissent sur le **SAP API Business Hub Enterprise portal**.
 Le **SAP API Business Hub Enterprise portal** est accessible à l'aide de sa propre URL. Il est accessible dans le **SAP Integration Suite cockpit** via la navigation dans le coin supérieur droit de l'interface.
 
-![](./RESSOURCES/CLD900_U3_L5_48.png)
+![](./assets/CLD900_U3_L5_48.png)
 
 Après avoir ouvert l'API **Business Hub Enterprise portal**, les **Products** sont affichés sous forme de [tiles]. L'[API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md) utilisée sous un **product** correspond à l'_URLduproxy API_ de l'[API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md) correspondante.
 
@@ -33,7 +33,7 @@ Dans cette capture d'écran, vous pouvez voir un **product** déjà créé nomm�
 
 Cette page est vide, si vous n'avez pas encore créé de **product**.
 
-![](./RESSOURCES/CLD900_U3_L5_50.png)
+![](./assets/CLD900_U3_L5_50.png)
 
 Les **products** peuvent ensuite être **recherchés**, **trouvés** et **consommés** par les développeurs.
 
@@ -61,7 +61,7 @@ Les étapes suivantes doivent être effectuées dans l'ordre suivant :
 
 Une condition préalable à la création d’un **product** est une [API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md) fonctionnelle. La création est lancée à l'aide d'[Engage]. Ensuite, accédez à l'onglet [Product].
 
-![](./RESSOURCES/CLD900_U3_L5_42.png)
+![](./assets/CLD900_U3_L5_42.png)
 
 Choisissez le bouton [Create] pour démarrer la procédure.
 
@@ -77,7 +77,7 @@ Exemple
      Titre : P_GWSAMPLE_BASIC_v1
      Description : Une API basée sur le modèle d'approvisionnement d'entreprise (EPM).
 
-![](./RESSOURCES/CLD900_U3_L5_43.png)
+![](./assets/CLD900_U3_L5_43.png)
 
 L'**Authentication** se fait à l'aide de policies. Aucune **Authentication** supplémentaire n'est requise. Les autres entrées comme [Quota], [Requests Every] et [Scope] sont **optionnelles** et doivent être définies via les **policies**.
 
@@ -89,7 +89,7 @@ Ici, vous pouvez choisir votre [proxy API](../☼%20UNIT%200%20-%20Lexicon/♠%2
 
 Dans le cas suivant, l'intégralité (toutes les ressources) de l'_API GWSAMPLE_BASIC_v1_ est ajoutée.
 
-![](./RESSOURCES/CLD900_U3_L5_45.png)
+![](./assets/CLD900_U3_L5_45.png)
 
 Les entrées sous les onglets [Permissions], [Rate plans] (Plans tarifaires) et [Custom Attributes] (Attributs personnalisés) sont **facultatives**.
 
@@ -99,7 +99,7 @@ Un exemple de paramètre d'attributs personnalisés est décrit ici : [Attribut
 
 Une fois le **product** configuré, la **product implementation** doit être **published** sur l'**API Business Hub Enterprise portal**.
 
-![](./RESSOURCES/CLD900_U3_L5_46.png)
+![](./assets/CLD900_U3_L5_46.png)
 
 #### 💮 Show Products at API Business Hub Enterprise Portal
 
@@ -109,7 +109,7 @@ L'**API Business Hub Enterprise portal** est **connecté** à **API Management**
 
 Après avoir ouvert le **API Business Hub Enterprise portal**, comme décrit précédemment, tous les **products** publiés s'affichent sous forme de [Tiles].
 
-![](./RESSOURCES/CLD900_U3_L5_50.png)
+![](./assets/CLD900_U3_L5_50.png)
 
 ### NAVIGATE TO YOUR PRODUCT
 
@@ -117,7 +117,7 @@ Pour le moment, vous avez encore la possibilité de choisir entre **deux représ
 
 Accédez à la [Tile] et vous êtes redirigé vers l'onglet [Test Environment].
 
-![](./RESSOURCES/CLD900_20_U3L7_010_scr.png)
+![](./assets/CLD900_20_U3L7_010_scr.png)
 
 Explications :
 
@@ -135,7 +135,7 @@ Ici, vous pouvez maintenant voir le _titre_ de l'[API](../☼%20UNIT%200%20-%20L
 
 - Le **product name** est _P_GWSAMPLE_BASIC_v1_.
 
-![](./RESSOURCES/CLD900_20_U3L7_011_scr.png)
+![](./assets/CLD900_20_U3L7_011_scr.png)
 
 ### NAVIGATE TO YOUR API
 
@@ -143,11 +143,11 @@ Lorsque vous sélectionnez la [Tile] avec le titre de l'[API](../☼%20UNIT%200%
 
 Sous l'onglet [API Reference], vous trouverez le **Swagger UI** pour appeler les ressources attribuées.
 
-![](./RESSOURCES/CLD900_20_U3L7_012_scr.png)
+![](./assets/CLD900_20_U3L7_012_scr.png)
 
 Si vous testez avec succès une ressource sélectionnée, ici _GET/ProductSet_, vous verrez l'**URL proxy** bien connue de **SAP API Management** en tant que **Request URL**.
 
-![](./RESSOURCES/CLD900_20_U3L7_013_scr.png)
+![](./assets/CLD900_20_U3L7_013_scr.png)
 
 ### API BUSINESS HUB ENTERPRISE PORTAL AT GLANCE
 

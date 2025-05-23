@@ -18,7 +18,7 @@ Pour le moment, seule le **health monitoring** avec la solution **SAP Cloud ALM*
 
 Accédez à [Monitor] → [API]. Le **dashboard** s'ouvre.
 
-![](./RESSOURCES/CLD900_U3_L7_01.png)
+![](./assets/CLD900_U3_L7_01.png)
 
 Il existe de nombreuses vues et options de configuration pour visualiser les informations pertinentes.
 
@@ -48,7 +48,7 @@ Un [messages syslog](../☼%20UNIT%200%20-%20Lexicon/♠%20Messages%20Syslog.md)
 
 En conséquence, la capture d'écran suivante montre l'utilisation de _Splunk _:
 
-![](./RESSOURCES/CLD900_20_U3L8_002_scr.png)
+![](./assets/CLD900_20_U3L8_002_scr.png)
 
 ### RESOURCES
 
@@ -76,7 +76,7 @@ En conséquence, la capture d'écran suivante montre l'utilisation de _Splunk _
 
 - Pour en savoir plus, consultez help.sap.com : [Inspecter la consommation de ressources pour le flux d'intégration individuel | Portail d'aide SAP](https://help.sap.com/docs/cloud-integration/sap-cloud-integration/inspect-resource-consumption-for-individual-integration-flow?q=Inspect%20Resource%20Consumption)
 
-  ![](./RESSOURCES/CLD900_U3_L7_02.png)
+  ![](./assets/CLD900_U3_L7_02.png)
 
 ### SUMMARY
 

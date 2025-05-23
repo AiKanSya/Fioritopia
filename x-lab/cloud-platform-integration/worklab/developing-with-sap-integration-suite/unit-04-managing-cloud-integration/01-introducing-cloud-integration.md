@@ -22,7 +22,7 @@ Les affirmations suivantes tentent de répondre à la question :
 
 ### KEY FEATURES
 
-![](./RESSOURCES/CLD900_20_U4L1_001_scr.png)
+![](./assets/CLD900_20_U4L1_001_scr.png)
 
 Un integration flow possède un **0-1 sender adapter** (adaptateur d’expéditeur 0-1). Le message est transmis via un **endpoint** si un **adaptateur** est configuré. Différents **sender adapters** (adaptateurs d'expéditeur) sont disponibles du côté **sender side**.
 
@@ -42,15 +42,15 @@ Pour déterminer quels **adaptateurs** sont disponibles en fonction de votre lic
 
 1. Commencez avec un modèle de projet vide modifiable :
 
-   ![](./RESSOURCES/CLD900_20_U4L1_002_scr.png)
+   ![](./assets/CLD900_20_U4L1_002_scr.png)
 
 2. Tracez une ligne entre le **channel** et le **Start event**. Les adaptateurs disponibles sont affichés :
 
-   ![](./RESSOURCES/CLD900_20_U4L1_003_scr.png)
+   ![](./assets/CLD900_20_U4L1_003_scr.png)
 
 3. Procédez de la même manière du côté **recipient's side** :
 
-   ![](./RESSOURCES/CLD900_20_U4L1_004_scr.png)
+   ![](./assets/CLD900_20_U4L1_004_scr.png)
 
 #### 💮 **Integration Capabilities** :
 
@@ -58,7 +58,7 @@ Toutes les **capacités d'intégration** sont **catégorisées**. Parmi eux figu
 
 Dans le cas suivant, cela devient visible au niveau de la capacité de transformation.
 
-![](./RESSOURCES/CLD900_20_U4L1_005_scr.png)
+![](./assets/CLD900_20_U4L1_005_scr.png)
 
 #### 💮 **Predefined Integration Content** :
 
@@ -92,23 +92,23 @@ Plus de détails sur les étapes :
 
 1. Découvrez l'onglet [Integrations] :
 
-   ![](./RESSOURCES/CLD900_20_U4L1_006_scr.png)
+   ![](./assets/CLD900_20_U4L1_006_scr.png)
 
 2. Choisissez le premier [product], par exemple, [SAP S/4HANA] :
 
-   ![](./RESSOURCES/CLD900_20_U4L1_007_scr.png)
+   ![](./assets/CLD900_20_U4L1_007_scr.png)
 
 3. Choisissez le deuxième [product], par exemple [SAP SuccessFactors] :
 
-   ![](./RESSOURCES/CLD900_20_U4L1_008_scr.png)
+   ![](./assets/CLD900_20_U4L1_008_scr.png)
 
 4. Accédez à un [integration package], par exemple, [SAP SuccessFactors Employee Central Integration with SAP ERP ou SAP S/4HANA, Employee Data] :
 
-   ![](./RESSOURCES/CLD900_20_U4L1_009_scr.png)
+   ![](./assets/CLD900_20_U4L1_009_scr.png)
 
 5. Il n’existe qu’un seul [integration flow] disponible. Accédez à cet [integration flow] :
 
-   ![](./RESSOURCES/CLD900_20_U4L1_010_scr.png)
+   ![](./assets/CLD900_20_U4L1_010_scr.png)
 
 Vous trouverez ici toutes les informations pour comprendre cet [integration flow] :
 

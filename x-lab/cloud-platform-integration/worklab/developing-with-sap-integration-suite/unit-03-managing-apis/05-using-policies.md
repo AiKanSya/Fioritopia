@@ -98,12 +98,12 @@ En savoir plus ici : [Types de Policies](https://help.sap.com/docs/SAP_CLOUD_PL
 
 Pour utiliser l’une des **Policies** disponibles, il faut d’abord déterminer où la **Policy** fonctionnera. Le **policy editor** propose les options suivantes dans la **request** et la **response** :
 
-![](./RESSOURCES/CLD900_20_U3L5_001.png)
+![](./assets/CLD900_20_U3L5_001.png)
 
 Les Policies peuvent également être utilisées pour tous les **calls** (**PostClientFlows**, **ressources**), vous ne sélectionnez alors pas de **PostClientFlow**.
 Dans l'exemple suivant, il existe deux **PostClientFlows** _CatalogCollection_ et _ServiceCollection_. Les **Policies** sont utilisées pour tous les **PostClientFlows** car aucune n'a été spécialement sélectionnée.
 
-![](./RESSOURCES/CLD900_20_U3L5_002_scr.png)
+![](./assets/CLD900_20_U3L5_002_scr.png)
 
 ### SECURITY - POLICIES
 
@@ -111,7 +111,7 @@ Dans l'exemple suivant, il existe deux **PostClientFlows** _CatalogCollection_ e
 
 Il existe une série de blogs qui présente les **Policies** de sécurité de **SAP BTP**, **API Management** pour sécuriser et protéger les [API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md) d'entreprise, comme le montre la figure suivante, **SAP Cloud Platform API Management**.
 
-![](./RESSOURCES/CLD900_20_U3L5_003.png)
+![](./assets/CLD900_20_U3L5_003.png)
 
 Vous trouverez la série de blogs ici : SAP Cloud Platform API Management – [​​Série de blogs sur les meilleures pratiques de sécurité des API](https://blogs.sap.com/2017/08/22/sap-cloud-platform-api-management-api-security-best-practices/)
 
@@ -131,11 +131,11 @@ Il existe des **predefined sets of policies** pour des **specific applications**
 
 Accédez à https://api.sap.com/ : [Explore] → [API].
 
-![](./RESSOURCES/CLD900_20_U3L5_004_scr.png)
+![](./assets/CLD900_20_U3L5_004_scr.png)
 
 Sous l'onglet **Policy Template** [SAP Business Accelerator Hub](https://api.sap.com/content-type/API/apis/policytemplate), vous trouverez **20 policy templates** pour une utilisation immédiate.
 
-![](./RESSOURCES/CLD900_20_U3L5_005_scr.png)
+![](./assets/CLD900_20_U3L5_005_scr.png)
 
 ### IMPORT A POLICY TEMPLATE FRON SAP BUSINESS ACCELERATOR HUB
 
@@ -147,15 +147,15 @@ Recherchez et trouvez le _Performance_Traceability policy template_ sur [SAP Bus
 
 - _Content_ : JavaScript file
 
-![](./RESSOURCES/CLD900_20_U3L5_006_scr.png)
+![](./assets/CLD900_20_U3L5_006_scr.png)
 
 Pour télécharger les **Policies** complètes, choisissez le bouton [Download] dans le coin supérieur droit et enregistrez le fichier \*.zip localement sur votre ordinateur.
 
-![](./RESSOURCES/CLD900_20_U3L5_007_scr.png)
+![](./assets/CLD900_20_U3L5_007_scr.png)
 
 Basculez vers la vue [Develop] et choisissez l’onglet [Policy Templates].
 
-![](./RESSOURCES/CLD900_U3_L5_30.png)
+![](./assets/CLD900_U3_L5_30.png)
 
 Ensuite, importez le _stored policy template_ précédent stocké localement via le bouton [Import] .
 
@@ -163,17 +163,17 @@ Ensuite, importez le _stored policy template_ précédent stocké localement via
 
 Pour placer le **policy template**, accédez à l'[API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md) dans laquelle vous souhaitez utiliser la **Policy**, puis accédez au **Policy Editor**. Choisissez [Edit] pour que le bouton [Policy Template] devienne actif.
 
-![](./RESSOURCES/CLD900_U3_L5_34.png)
+![](./assets/CLD900_U3_L5_34.png)
 
 Maintenant, choisissez le bouton [Apply] pour importer le **policy template**. Sélectionnez ensuite le **policy template** précédemment importé et choisissez [Apply].
 
-![](./RESSOURCES/CLD900_U3_L5_35.png)
+![](./assets/CLD900_U3_L5_35.png)
 
-![](./RESSOURCES/CLD900_20_U3L5_012_scr.png)
+![](./assets/CLD900_20_U3L5_012_scr.png)
 
 Le **policy template** a été importé et inséré dans le flux correspondant.
 
-![](./RESSOURCES/CLD900_20_U3L5_013_scr.png)
+![](./assets/CLD900_20_U3L5_013_scr.png)
 
 Après la **mise à jour**, l'**enregistrement** et le **redéploiement**, le **policy template** est actif.
 

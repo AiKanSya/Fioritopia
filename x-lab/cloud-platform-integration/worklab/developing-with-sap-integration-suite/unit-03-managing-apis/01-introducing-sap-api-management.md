@@ -52,7 +52,7 @@ Dans **SAP API Management**, vous pouvez découvrir les **API Management platfor
 
 ## 🌸 TYPICAL USE CASES
 
-![](./RESSOURCES/CLD900_20_U3L1_001_scr.png)
+![](./assets/CLD900_20_U3L1_001_scr.png)
 
 #### 💮 **Enterprise Digital Apps** :
 

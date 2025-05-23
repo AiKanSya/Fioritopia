@@ -8,7 +8,7 @@
 
 ### SAP'S INTEGRATION STRATEGY FOR INTELLIGENT ENTERPRISES
 
-![](./RESSOURCES/CLD900_20_U2L1_001.png)
+![](./assets/CLD900_20_U2L1_001.png)
 
 La **integration strategy** repose sur **quatre principes** :
 
@@ -32,7 +32,7 @@ En plus d'apporter de l'intelligence aux **core business processes** (processus 
 
 Si l'on regarde le positionnement de SAP BTP, nous pouvons voir que l'un des pilliers les plus important est l'**intégration**.
 
-![](./RESSOURCES/CLD900_20_U2L1_002.png)
+![](./assets/CLD900_20_U2L1_002.png)
 
 Intégrez des **applications On-Premise**, dans le **cloud** ou dans un modèle **hybride**, tout en connectant en toute sécurité les **applications**, les **processus** et les **personnes**.
 

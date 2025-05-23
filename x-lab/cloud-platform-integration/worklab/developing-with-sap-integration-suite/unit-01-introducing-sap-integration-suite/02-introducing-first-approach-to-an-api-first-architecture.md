@@ -22,7 +22,7 @@
 >
 > Une [API first approach](../☼%20UNIT%200%20-%20Lexicon/♠%20API%20First%20Approach.md) signifie que vos [API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md) sont traitées comme des **first class citizens**. Tout tourne autour du end product (produit final) utilisé par les appareils mobiles et les applications client. Une [API first approach](../☼%20UNIT%200%20-%20Lexicon/♠%20API%20First%20Approach.md) implique de développer des [APIs](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md) consistent (cohérentes) et reusable. Ceci est réalisé en utilisant un API description language.
 
-![](./RESSOURCES/CLD900_20_U1L2_001.png)
+![](./assets/CLD900_20_U1L2_001.png)
 
 Explication:
 
@@ -54,7 +54,7 @@ Explication:
 
 Dans la littérature, il existe de nombreuses présentations de différents types d’[API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md). Vous trouverez ci-dessous un simple aperçu des [API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md) que nous devons comprendre pour ce cours.
 
-![](./RESSOURCES/CLD900_20_U1L2_002.png)
+![](./assets/CLD900_20_U1L2_002.png)
 
 ### 4 DIFFERENT APIS:
 
@@ -80,7 +80,7 @@ Ce sont des [API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md) asynchrones qui 
 
 Techniquement, quelques protocoles ont été convenus. La figure suivante montre les [API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md) et leurs relations les unes avec les autres.
 
-![](./RESSOURCES/CLD900_20_U1L2_003.png)
+![](./assets/CLD900_20_U1L2_003.png)
 
 Ceux-ci sont chez SAP :
 

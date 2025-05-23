@@ -30,7 +30,7 @@ Il existe une section de présentation utile qui met en évidence les points for
 
 La leçon s'applique à la **collection de rôles PI_Integration_Developer**, tandis que les exercices utilisent la **collection de rôles PI_Administrator**, ce qui peut entraîner des différences dans la présentation. Lors de la connexion via le [monitor menu], le desktop suivant vous est présenté, où n'importe quelle view peut être configurée individuellement en cliquant sur le [plus sign].
 
-![](./RESSOURCES/CLD900_20_U4L3_001_scr.png)
+![](./assets/CLD900_20_U4L3_001_scr.png)
 
 - N° 1 : _Monitor Message Processing_
 
@@ -70,7 +70,7 @@ L'**overview** affiche tous les **messages traités** dans tous les **integratio
 
 1. Ouvrir [Monitor Artifacts] → [Overview] → [Manage Integration Content]
 
-   ![](./RESSOURCES/CLD900_20_U4L3_002_scr.png)
+   ![](./assets/CLD900_20_U4L3_002_scr.png)
 
    - No. 1: the [filter bar]
 
@@ -78,19 +78,19 @@ L'**overview** affiche tous les **messages traités** dans tous les **integratio
 
 2. Choisissez le message avec le statut [complete] :
 
-   ![](./RESSOURCES/CLD900_20_U4L3_003_scr.png)
+   ![](./assets/CLD900_20_U4L3_003_scr.png)
 
    Sur le côté droit de la fenêtre se trouve une autre section qui fournit une multitude d'informations sur le **message processing**. Lorsque le **log level** est défini sur [info], cette section sert de **primary monitor**.
 
    Cependant, si le **log level** est défini sur [trace], vous pouvez accéder au **debugging mode** du **process flow**, que nous avons déjà rencontré dans l'exercice.
 
-   ![](./RESSOURCES/CLD900_20_U4L3_004_scr.png)
+   ![](./assets/CLD900_20_U4L3_004_scr.png)
 
 ### JUMP IN DIRECTLY FROM YOUR INTEGRATION FLOW
 
 Une version plus concise pourrait être : "Vous pouvez naviguer de l'integration flows à la section des [artefacts](../☼%20UNIT%200%20-%20Lexicon/♠%20Artefacts.md) du **moniteur** à l'aide du lien [Navigate to Manage Integration Content], qui ouvre le **moniteur** dans un nouvel onglet pour une navigation plus facile." Celui-ci est utilisé dans les exercices, et permet d'accéder à toutes les informations sur le traitement via différents onglets.
 
-![](./RESSOURCES/CLD900_20_U4L3_005_scr.png)
+![](./assets/CLD900_20_U4L3_005_scr.png)
 
 Cette approche est utilisée dans les exercices de cette formation. Toutes les informations sur le traitement sont accessibles via les différents onglets.
 
@@ -98,11 +98,11 @@ Cette approche est utilisée dans les exercices de cette formation. Toutes les i
 
 L'**Access Logs section** du **Build-In Monitor** (moniteur intégré) fournit un accès direct aux **System Log files** (fichiers journaux système) via la **System Log Files tile**. Ces fichiers incluent l'**accès** et la **trace HTTP** et sont conservés pendant **30 jours**.
 
-![](./RESSOURCES/CLD900_20_U4L3_006_scr.png)
+![](./assets/CLD900_20_U4L3_006_scr.png)
 
 Après avoir ouvert la [tile], vous avez accès aux **system logs** (journaux système).
 
-![](./RESSOURCES/CLD900_20_U4L3_007_scr.png)
+![](./assets/CLD900_20_U4L3_007_scr.png)
 
 ### SAP CLOUD INTEGRATION API FOR MESSAGE PROCESSING LOGS
 
@@ -110,15 +110,15 @@ Le **moniteur** lui-même est basé sur une **API d'intégration cloud**. Pour l
 
 Retrouvez les API ici : [API.SAP.com](https://api.sap.com/).
 
-![](./RESSOURCES/CLD900_20_U4L3_008_scr.png)
+![](./assets/CLD900_20_U4L3_008_scr.png)
 
 Ouvrez la [tile] [Message Processing Logs] → [API Reference]. Nous pouvons maintenant examiner l'API avec le **Swagger UI** (interface utilisateur Swagger).
 
-![](./RESSOURCES/CLD900_20_U4L3_009_scr.png)
+![](./assets/CLD900_20_U4L3_009_scr.png)
 
 Essayez _GET /MessageProcessingLogs_.
 
-![](./RESSOURCES/CLD900_20_U4L3_010_scr.png)
+![](./assets/CLD900_20_U4L3_010_scr.png)
 
 - Au (n°1), vous retrouvez les _métadonnées_ de ce message.
 

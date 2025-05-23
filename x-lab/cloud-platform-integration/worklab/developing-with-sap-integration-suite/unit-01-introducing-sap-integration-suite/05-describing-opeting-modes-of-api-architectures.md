@@ -12,19 +12,19 @@
 >
 > Un [Request-Driven Architecture](../☼%20UNIT%200%20-%20Lexicon/♠%20Request-Driven%20Architecture.md) est basée sur une communication directe entre un **service provider** et un **service consumer**. Cette communication est **synchrone**.
 
-![](./RESSOURCES/CLD900_U1_L5_01.png)
+![](./assets/CLD900_U1_L5_01.png)
 
 #### 💮 **Sample Request** :
 
 Un exemple de **SOAP request** peut ressembler à ceci :
 
-![](./RESSOURCES/CLD900_20_U1L3_001_scr.png)
+![](./assets/CLD900_20_U1L3_001_scr.png)
 
 #### 💮 Sample Response :
 
 Un exemple de **SOAP response** peut ressembler à ce qui suit :
 
-![](./RESSOURCES/CLD900_20_U1L3_002_scr.png)
+![](./assets/CLD900_20_U1L3_002_scr.png)
 
 ### EVENT-DRIVEN ARCHITECTURE
 
@@ -36,7 +36,7 @@ Un exemple de **SOAP response** peut ressembler à ce qui suit :
 >
 > Un Event peut ressembler à ceci :
 >
-> ![](./RESSOURCES/CLD900_20_U1L3_003_scr.png)
+> ![](./assets/CLD900_20_U1L3_003_scr.png)
 
 ### EVENT PRODUCER AT SAP
 
@@ -56,7 +56,7 @@ Pour en savoir plus, cliquez ici : [Qu'est-ce que l'EDA (Event-Driven Architect
 
 ### PULL VARIANT
 
-![](./RESSOURCES/CLD900_20_U1L3_005.png)
+![](./assets/CLD900_20_U1L3_005.png)
 
 L'**event provider** (fournisseur d'Events) (n° 1) déclenche un **Event** (n° 2) avec une désignation appelée **Topic** (n° 3). Un **Topic** peut être, par exemple, **BusinessPartner_Changed**. Il s'agit d'une communication **asynchrone**.
 
@@ -64,7 +64,7 @@ Le **Topic** est abonné via une file d'attente (**subscribe** to topic). Dans c
 
 ### PUSH VARIANT
 
-![](./RESSOURCES/CLD900_20_U1L3_006.png)
+![](./assets/CLD900_20_U1L3_006.png)
 
 L'**event provider** (n° 1) déclenche un **Event** (n° 2) avec une désignation appelée **Topic** (n° 3). Un **Topic** peut être, par exemple, **BusinessPartner_Changed**. Il s'agit d'une communication **asynchrone**.
 
@@ -82,7 +82,7 @@ En combinaison avec l'[Event Mesh](../☼%20UNIT%200%20-%20Lexicon/♠%20Event%2
 
 En réalité, les **classic requests and events** se combinent.
 
-![](./RESSOURCES/CLD900_20_U1L3_007.png)
+![](./assets/CLD900_20_U1L3_007.png)
 
 Les numéros 1 à 6 fonctionnent comme décrit dans une section précédente, mais ce qui est nouveau, c'est que l'**event consumer** (n° 7) soumet une request à l'**event provider** (n° 1). Par exemple, pour lire les données du produit qui ont été modifiées. L'**event consumer** peut ensuite traiter l'ensemble de données.
 

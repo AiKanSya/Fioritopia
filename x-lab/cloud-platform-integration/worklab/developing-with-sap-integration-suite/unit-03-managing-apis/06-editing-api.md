@@ -10,7 +10,7 @@
 
 Lorsque vous créez et déployez une [API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md), elle s'affiche dans l'**API view**. Voici l'exemple de l'API _GWSAMPLE_BASIC_.
 
-![](./RESSOURCES/CLD900_U3_L6_01.png)
+![](./assets/CLD900_U3_L6_01.png)
 
 Les domaines suivants sont marked pour être examinés plus en détail dans la liste suivante :
 
@@ -26,7 +26,7 @@ Sur le panneau de droite, vous trouvez l'**API Health**, les **active calls** ef
 
 Comme nous n’avons pas encore utilisé cette [API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md), aucune information d’utilisation n’est disponible.
 
-![](./RESSOURCES/CLD900_U3_L6_02.png)
+![](./assets/CLD900_U3_L6_02.png)
 
 ### API URL - PROXY URL (N°1)
 
@@ -48,7 +48,7 @@ Au n°1, vous pouvez voir la nouvelle **URL** (_URL proxy_) avec laquelle vous p
 
 Le **Virtual Host** a été créé lors du **provisioning of API management** et peut être modifié à tout moment en utilisant [Settings] → [API]. Vérifiez et voyez votre _Host Alias name_.
 
-![](./RESSOURCES/CLD900_U3_L6_03.png)
+![](./assets/CLD900_U3_L6_03.png)
 
 #### 💮 **API Host** :
 
@@ -68,7 +68,7 @@ Il existe cinq onglets portant les noms suivants :
 
 - _Revisions_
 
-![](./RESSOURCES/CLD900_U3_L6_04.png)
+![](./assets/CLD900_U3_L6_04.png)
 
 #### 💮 TAB 1: **Overview** :
 
@@ -86,7 +86,7 @@ Ceux-ci sont les suivants :
 
 - _Description_
 
-![](./RESSOURCES/CLD900_U3_L6_05.png)
+![](./assets/CLD900_U3_L6_05.png)
 
 Au bas de l'interface, il y a une **Product Associated area**. Plus tard, nous créons un **product** basé sur notre [API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md). Chaque entrée peut être modifiée.
 
@@ -98,7 +98,7 @@ En savoir plus ici : [Structure du proxy API](https://help.sap.com/docs/SAP_CLO
 
 #### 💮 TAB 3 : **Target EndPoint** :
 
-![](./RESSOURCES/CLD900_U3_L6_06.png)
+![](./assets/CLD900_U3_L6_06.png)
 
 Ici, vous trouvez l'[API Provider](../☼%20UNIT%200%20-%20Lexicon/♠%20API%20Provider.md) configuré ou l'**URL**.
 
@@ -110,7 +110,7 @@ C'est le domaine le plus important d'une [API](../☼%20UNIT%200%20-%20Lexicon/�
 
 La figure suivante nous donne l'exemple d'un **resource path**, _/ProductSet_, et de l'action _REST GET_ avec des paramètres de requête prédéfinis.
 
-![](./RESSOURCES/CLD900_U3_L6_07.png)
+![](./assets/CLD900_U3_L6_07.png)
 
 ### WHERE DO THESE ENTRIES IN THIS TAB COME FROM?
 
@@ -133,7 +133,7 @@ Une seule révision d'un [API proxy](../☼%20UNIT%200%20-%20Lexicon/♠%20API%2
 
 Pour plus d'informations sur la **création d'API Revisions**, visitez le site Web help.sap.com : [Création de révisions d'API | Portail d'aide SAP](https://help.sap.com/docs/sap-api-management/sap-api-management-for-neo-environment/creating-api-revisions?version=Cloud&q=Resivions%20APi%20proxy)
 
-![](./RESSOURCES/CLD900_U3_L6_08.png)
+![](./assets/CLD900_U3_L6_08.png)
 
 ### CREATE OR EDIT AN API FROM THE API DESIGNER
 
@@ -143,7 +143,7 @@ Puisqu'il n'est **pas toujours possible de générer** automatiquement les **res
 
 Dans la [Configure view] de vos [API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md), choisissez le lien [Create in API Designer] pour ouvrir [API Designer]. Vous trouverez un modèle de démarrage simple en **YAML**.
 
-![](./RESSOURCES/CLD900_20_U3L6_008_scr.png)
+![](./assets/CLD900_20_U3L6_008_scr.png)
 
 Vous pouvez maintenant commencer à écrire votre propre **spécification openAPI**.
 

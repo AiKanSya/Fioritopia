@@ -24,7 +24,7 @@
 
 Vous trouverez ci-dessous un exemple de **customer landscape** (paysage client). Vous voyez que de nombreux systèmes techniques différents communiquent entre eux avec toutes leurs particularités techniques.
 
-![](./RESSOURCES/CLD900_U1L1_001.png)
+![](./assets/CLD900_U1L1_001.png)
 
 ### QUELS DEFIS DOIVENT ETRE RESOLUS ?
 
@@ -110,16 +110,16 @@ Les [API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md) conçues avec une [API f
 
 1. In your _SAP BTP subaccount_, navigate to [Services] → [Instances and Subscriptions] and click on the link [Integration Suite].
 
-   ![](./RESSOURCES/IntegrationSuite01.png)
+   ![](./assets/IntegrationSuite01.png)
 
 #### 💮 **Open the Cloud Integration capability** :
 
 1. Open [Design] → [Integrations and APIs] at the navigation bar.
 
-   ![](./RESSOURCES/IntegrationSuite02.png)
+   ![](./assets/IntegrationSuite02.png)
 
 #### 💮 **Open API Management** :
 
 1. Open [Configure] → [APIs] at the navigation bar.
 
-   ![](./RESSOURCES/APIProvider01.png)
+   ![](./assets/APIProvider01.png)

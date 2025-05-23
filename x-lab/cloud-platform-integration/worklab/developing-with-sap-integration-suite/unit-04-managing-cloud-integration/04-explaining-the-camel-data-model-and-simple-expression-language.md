@@ -60,7 +60,7 @@ Les **Exchange parameters**, y compris le **payload**, sont automatiquement déf
 
 Le **Content Modifier element** (élément Content Modifier) offre un **moyen graphique** de manipuler les **paramètres Exchange**.
 
-![](./RESSOURCES/CLD900_20_U4L4_002_scr.png)
+![](./assets/CLD900_20_U4L4_002_scr.png)
 
 Vous pouvez manipuler :
 

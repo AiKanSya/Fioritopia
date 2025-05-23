@@ -24,9 +24,9 @@ Les options suivantes sont disponibles :
 
 - Importer une _external API_
 
-  ![](./RESSOURCES/CLD900_20_U3L4_001.png)
+  ![](./assets/CLD900_20_U3L4_001.png)
 
-  ![](./RESSOURCES/CLD900_20_U3L4_002.png)
+  ![](./assets/CLD900_20_U3L4_002.png)
 
 ### CREATE AN [API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md) USING THE CREATE BUTTON
 
@@ -38,15 +38,15 @@ C'est probablement le cas le plus courant. Avec cette option, vous pouvez créer
 
 - Démarrez le _wizard_ en choisissant le bouton [Create] . Une nouvelle fenêtre s'ouvre.
 
-  ![](./RESSOURCES/CLD900_U3_L4_02.png)
+  ![](./assets/CLD900_U3_L4_02.png)
 
   Utiliser les **API Provider option**.
 
-  ![](./RESSOURCES/CLD900_20_U3L4_005.png)
+  ![](./assets/CLD900_20_U3L4_005.png)
 
   Sélectionnez le **API Provider radio button** et ouvrez la **selected box**. Tous les [API provider](../☼%20UNIT%200%20-%20Lexicon/♠%20API%20Provider.md) s'affichent. Choisissez-en un, par exemple **SAPGatewayDemoSystemES5_Provider**.
 
-  ![](./RESSOURCES/CLD900_20_U3L4_006_scr.png)
+  ![](./assets/CLD900_20_U3L4_006_scr.png)
 
   Lorsque le [API provider](../☼%20UNIT%200%20-%20Lexicon/♠%20API%20Provider.md) est choisi, une nouvelle **list box** portant le nom [Discover] est disponible. Certaines données, comme l'[hôte] et le [type of API], ont déjà été renseignées.
 
@@ -56,11 +56,11 @@ C'est probablement le cas le plus courant. Avec cette option, vous pouvez créer
 
   La figure suivante montre une liste des services disponibles, utilisables à partir du système backend SAP. L'[API provider](../☼%20UNIT%200%20-%20Lexicon/♠%20API%20Provider.md) est défini en choisissant un service parmi les services du **catalogue** fourni.
 
-  ![](./RESSOURCES/CLD900_20_U3L4_007_scr.png)
+  ![](./assets/CLD900_20_U3L4_007_scr.png)
 
   Vous pouvez choisir exactement l’un des services proposés. Après cela, d'autres données sont ajoutées au **masque**.
 
-  ![](./RESSOURCES/CLD900_20_U3L4_008_scr.png)
+  ![](./assets/CLD900_20_U3L4_008_scr.png)
 
   Lorsque vous avez terminé de créer cette [API Proxy](../☼%20UNIT%200%20-%20Lexicon/♠%20API%20Proxy.md), elle doit être **déployée** pour pouvoir être utilisée. Après cela, l'[API Proxy](../☼%20UNIT%200%20-%20Lexicon/♠%20API%20Proxy.md) est prête à être **testée**. Le **service type** est automatiquement défini. Dans ce cas, il s'agit d'**OData**.
 
@@ -68,11 +68,11 @@ C'est probablement le cas le plus courant. Avec cette option, vous pouvez créer
 
 Dans le cas où vous n'utilisez pas d'[API provider](../☼%20UNIT%200%20-%20Lexicon/♠%20API%20Provider.md), vous pouvez directement spécifier l'**URL** de votre source.
 
-![](./RESSOURCES/CLD900_20_U3L4_009.png)
+![](./assets/CLD900_20_U3L4_009.png)
 
 Dans ce cas, vous devez saisir les données manuellement (**marked**). Le **service type** ne peut être que **REST** ou **SOAP**.
 
-![](./RESSOURCES/CLD900_20_U3L4_010_scr.png)
+![](./assets/CLD900_20_U3L4_010_scr.png)
 
 Après **saving** et **deploying** l’[API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md), elle peut également être **testée**.
 
@@ -80,25 +80,25 @@ Après **saving** et **deploying** l’[API](../☼%20UNIT%200%20-%20Lexicon/♠
 
 Dans ce cas, vous pouvez copier l'[API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md) existante.
 
-![](./RESSOURCES/CLD900_20_U3L4_011_scr.png)
+![](./assets/CLD900_20_U3L4_011_scr.png)
 
 Dans ce cas, vous devez saisir les données manuellement (**marked**). Le **service type** ne peut être que **REST** ou **SOAP**, même si la **spied API**[^2] est de type **OData**.
 
 ### CREATE AN [API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md) USING MENU LINKS
 
-![](./RESSOURCES/CLD900_20_U3L4_012.png)
+![](./assets/CLD900_20_U3L4_012.png)
 
 ### USE THE CREATE IN [API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md) DESIGNER OPTION
 
 Commencez à créer une [API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md) en choisissant le menu link [Create in API Designer].
 
-![](./RESSOURCES/CLD900_20_U3L4_013_scr.png)
+![](./assets/CLD900_20_U3L4_013_scr.png)
 
 Passez à l'**openAPI editor**. Vous pouvez y créer manuellement votre [API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md) via le **langage openAPI en YAML**. Dans ce cas, toutes les **entrées** doivent être créées **manuellement**. L'**URL** du serveur est **automatiquement ajustée** après l'enregistrement. Le **service type** ne peut être que **REST**.
 
 ### BEFORE SAVING
 
-![](./RESSOURCES/CLD900_20_U3L4_014_scr.png)
+![](./assets/CLD900_20_U3L4_014_scr.png)
 
 ### AFTER SAVING
 
@@ -106,21 +106,21 @@ Passez à l'**openAPI editor**. Vous pouvez y créer manuellement votre [API](..
 >
 > Be aware that the shown URL is a sample and will not work !
 
-![](./RESSOURCES/CLD900_20_U3L4_015_scr.png)
+![](./assets/CLD900_20_U3L4_015_scr.png)
 
 ### IMPORT AN EXTERNAL [API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md)
 
-![](./RESSOURCES/CLD900_20_U3L4_016.png)
+![](./assets/CLD900_20_U3L4_016.png)
 
 Démarrez la création d’une [API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md) en choisissant le menu link [Import API]
 
-![](./RESSOURCES/CLD900_20_U3L4_017_scr.png)
+![](./assets/CLD900_20_U3L4_017_scr.png)
 
 Le **Service Type** correspond à celui de l'**Import API**.
 
 ### RESOURCE
 
-Portail d'aide : [Créer un proxy [API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md)](./RESSOURCES/https://help.sap.com/docs/SAP_INTEGRATION_SUITE/51ab953548be4459bfe8539ecaeee98d/4ac0431ddc80469ca31dcd938edc9076.html)
+Portail d'aide : [Créer un proxy [API](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md)](./assets/https://help.sap.com/docs/SAP_INTEGRATION_SUITE/51ab953548be4459bfe8539ecaeee98d/4ac0431ddc80469ca31dcd938edc9076.html)
 
 ### SUMMARY
 

@@ -18,7 +18,7 @@ Les **URL** des différents niveaux sont fournies ci-dessous et, dans tous les c
 
 - _URL du Cloud integration_ (n°2) : https://.integrationsuite.cfapps.eu10-003.hana.ondemand.com/shell/design
 
-![](./RESSOURCES/CLD900_20_U4L2_001_scr.png)
+![](./assets/CLD900_20_U4L2_001_scr.png)
 
 Lorsque vous travaillez, cela signifie :
 
@@ -38,7 +38,7 @@ Vous avez besoin au moins de la **collection de rôles PI_Integration_Developer*
 
 Comme mentionné au début, le **core** du système est le **Camel integration framework**. SAP améliore le **Camel framework** avec un **client graphique** et diverses **fonctionnalités de sécurité**. L'implémentation complète est une **application Java** et comprend les composants suivants :
 
-![](./RESSOURCES/CLD900_20_U4L2_002_scr.png)
+![](./assets/CLD900_20_U4L2_002_scr.png)
 
 Le premier composant (n°1) est votre **browser**, qui accède à l'**implémentation** via l'**URL du Cloud integration** pour _créer_ et _gérer_ le **flux d'intégration**.
 
@@ -54,7 +54,7 @@ Un **load balancer** (équilibreur de charge) (**IP5**) est connecté au **sende
 
 Les ressources pour une mise en œuvre d'une **Cloud integration** sont limitées.
 
-![](./RESSOURCES/CLD900_20_U4L2_003_scr.png)
+![](./assets/CLD900_20_U4L2_003_scr.png)
 
 ### DEVELOPEMENT CYCLE FOR CREATING INTEGRATION FLOW
 
@@ -154,11 +154,11 @@ Cette approche est utilisée dans les exercices.
 
 - _Choisissez_ le _symbole_ pour revenir à l'ancienne version.
 
-![](./RESSOURCES/CLD900_20_U4L2_004_scr.png)
+![](./assets/CLD900_20_U4L2_004_scr.png)
 
-![](./RESSOURCES/CLD900_20_U4L2_005_scr.png)
+![](./assets/CLD900_20_U4L2_005_scr.png)
 
-![](./RESSOURCES/CLD900_20_U4L2_006_scr.png)
+![](./assets/CLD900_20_U4L2_006_scr.png)
 
 ### DEVELOPER TEST WITH REAL DEPLOYMENT AND DEBUGGING OF YOUR INTEGRATION FLOW
 
@@ -194,7 +194,7 @@ Le **graphical model** est converti en **Java application** et placé dans le **
 
 - _Explore_ the _trace_ of your flow.
 
-![](./RESSOURCES/CLD900_20_U4L2_007_scr.png)
+![](./assets/CLD900_20_U4L2_007_scr.png)
 
 Cette approche est utilisée dans les exercices.
 
@@ -228,21 +228,21 @@ Dans _DeDelayedDelivery_Process_, nous voulons vérifier via une simulation si l
 
 - _After_ the testing, _choose_ the [Clear] button of the [navigation bar].
 
-![](./RESSOURCES/CLD900_20_U4L2_008_scr.png)
+![](./assets/CLD900_20_U4L2_008_scr.png)
 
-![](./RESSOURCES/CLD900_20_U4L2_009_scr.png)
+![](./assets/CLD900_20_U4L2_009_scr.png)
 
-![](./RESSOURCES/CLD900_20_U4L2_010_scr.png)
+![](./assets/CLD900_20_U4L2_010_scr.png)
 
-![](./RESSOURCES/CLD900_20_U4L2_011_scr.png)
+![](./assets/CLD900_20_U4L2_011_scr.png)
 
-![](./RESSOURCES/CLD900_20_U4L2_012_scr.png)
+![](./assets/CLD900_20_U4L2_012_scr.png)
 
-![](./RESSOURCES/CLD900_20_U4L2_013_scr.png)
+![](./assets/CLD900_20_U4L2_013_scr.png)
 
-![](./RESSOURCES/CLD900_20_U4L2_014_scr.png)
+![](./assets/CLD900_20_U4L2_014_scr.png)
 
-![](./RESSOURCES/CLD900_20_U4L2_015_scr.png)
+![](./assets/CLD900_20_U4L2_015_scr.png)
 
 ### SUMMARY
 

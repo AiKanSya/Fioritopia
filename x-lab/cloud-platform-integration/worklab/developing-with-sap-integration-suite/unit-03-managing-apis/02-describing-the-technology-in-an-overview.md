@@ -1,6 +1,6 @@
 # 🌸 2 [DESCRIBING THE TECHNOLOGIE IN AN OVERVIEW](https://learning.sap.com/learning-journeys/developing-with-sap-integration-suite/describing-the-technology-in-an-overview_b9547c58-091c-48d6-bb97-27835c35731d)
 
-> 🌺 Objectifs
+> m Objectifs
 >
 > - [ ] Gain an overview of the SAP API Management components
 
@@ -10,7 +10,7 @@
 
 **SAP API Management** comprend les **composants** suivants. Dans la figure suivante, vous trouverez le _diagramme des composants_ (que nous utiliserons également dans les exercices ultérieurs).
 
-![](./RESSOURCES/CLD900_20_U3L2_001.png)
+![](./assets/CLD900_20_U3L2_001.png)
 
 Les composants importants sont numérotés. Dans la liste suivante, vous trouverez un premier aperçu :
 

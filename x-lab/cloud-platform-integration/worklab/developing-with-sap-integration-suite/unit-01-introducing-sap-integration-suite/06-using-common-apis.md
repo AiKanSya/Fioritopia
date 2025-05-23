@@ -112,7 +112,7 @@ De nombreuses informations peuvent être trouvées sur Internet sous forme de te
 
     Le document de service répertorie les **entity sets** (collections), les **fonctions** et les **singletons**[^1] qui peuvent être récupérés. Les clients peuvent utiliser le document de service pour naviguer dans le modèle de manière hypermédia (hypermedia-driven fashion). Le document de service est accessible directement avec l'URL de base : https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC/. Vous trouverez ci-dessous un exemple tiré d’un exercice ultérieur.
 
-    ![](./RESSOURCES/CLD900_20_U1L5_001_scr.png)
+    ![](./assets/CLD900_20_U1L5_001_scr.png)
 
   - _The metadata document_
 
@@ -120,13 +120,13 @@ De nombreuses informations peuvent être trouvées sur Internet sous forme de te
 
     Le document de metadata est disponible à l'adresse : https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC/$metadata.
 
-    ![](./RESSOURCES/CLD900_20_U1L5_002_scr.png)
+    ![](./assets/CLD900_20_U1L5_002_scr.png)
 
 #### 💮 **Dynamic resources** :
 
 Les URL des ressources dynamiques peuvent être **computed** (calculées) à partir des **hypermedia information** (informations hypermédia) contenues dans les **service and metadata documents**. Le **data feed** (flux de données) de la **ProductSet collection** contient également des liens vers d'autres **entities**. L'URL est la suivante : https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC/ProductSet
 
-![](./RESSOURCES/CLD900_20_U1L5_003_scr.png)
+![](./assets/CLD900_20_U1L5_003_scr.png)
 
 #### 💮 **Resource operation** :
 
@@ -136,7 +136,7 @@ Les URL des ressources dynamiques peuvent être **computed** (calculées) à par
 
 Les **URL** demandées à partir d'un **OData endpoint**[^2] peuvent inclure des **query options** (options de requête). Le protocole OData spécifie diverses **system query options** que les **endpoints**[^2] peuvent accepter. Elles peuvent être utilisées pour **filter**, **order**, **map** ou **paginate** des données. Dans ce qui suit, seul le produit portant le numéro de produit HT-1000 est récupéré. L'URL est : https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC/ProductSet('HT-1000')
 
-![](./RESSOURCES/CLD900_20_U1L5_004_scr.png)
+![](./assets/CLD900_20_U1L5_004_scr.png)
 
 #### 💮 **Resource representation** :
 
@@ -146,13 +146,13 @@ Les **URL** demandées à partir d'un **OData endpoint**[^2] peuvent inclure des
 
   L'URL est : https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC/ProductSet('HT-1000')?$format=json
 
-  ![](./RESSOURCES/CLD900_20_U1L5_005_scr.png)
+  ![](./assets/CLD900_20_U1L5_005_scr.png)
 
 - _XML_
 
   L'URL est : https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC/ProductSet('HT-1000')?$format=xml
 
-  ![](./RESSOURCES/CLD900_20_U1L5_006_scr.png)
+  ![](./assets/CLD900_20_U1L5_006_scr.png)
 
 ### TUTORIAL: LEARN ABOUT ODATA FUNDAMENTALS
 
@@ -186,7 +186,7 @@ Il est recommandé de suivre ce didacticiel pour vous familiariser pleinement av
 >
 > SAP Graph est une **unified API** pour SAP, utilisant des **modern open standards** (normes ouvertes modernes) comme **OData v4**. SAP Graph est une connexion à vos données d'entreprise. SAP Graph introduit une nouvelle API unifiée pour accéder à toutes les données d'entreprise sous la forme d'un **single, semantically connected, Business Data Graph**.
 
-![](./RESSOURCES/CLD900_U1L6_001.png)
+![](./assets/CLD900_U1L6_001.png)
 
 En résumé :
 
@@ -202,7 +202,7 @@ En résumé :
 
 Data Graphs supporte les **Queries** qui explore les **données** et les **relations**.
 
-![](./RESSOURCES/CLD900_U1L6_002.png)
+![](./assets/CLD900_U1L6_002.png)
 
 #### 💮 **A data graph represents entities (data objects) as nodes of a graph** :
 
@@ -218,7 +218,7 @@ Data Graphs supporte les **Queries** qui explore les **données** et les **relat
 
 ### SAMPLE DATA GRAPH
 
-![](./RESSOURCES/CLD900_U1L6_003.png)
+![](./assets/CLD900_U1L6_003.png)
 
 Une **API SAP Graph** avec le nom product, utilisant le **namespaces sap.graph** est liée aux **product entities** de **SAP S/4HANA\*** (n° 2) et de **SAP Sales Cloud** (n° 3). La nouvelle [APIs](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md) offre ainsi une vue étendue des **product data** stockées dans différents systèmes SAP.
 
@@ -226,7 +226,7 @@ Une **API SAP Graph** avec le nom product, utilisant le **namespaces sap.graph**
 
 Il existe deux options pour créer une **API SAP Graph**. Vous pouvez créer des [APIs](../☼%20UNIT%200%20-%20Lexicon/♠%20API.md) directement via une implementation avec le module **SAP Graph** dans **Node.js**. Sous **Source**, vous trouverez 26 didacticiels vidéo qui montrent en détail toutes les étapes de développement. Une deuxième approche issue du domaine du **low code** est proposée via **SAP API Management**.
 
-![](./RESSOURCES/CLD900_U1_L4_04.png)
+![](./assets/CLD900_U1_L4_04.png)
 
 ### RESOURCES
 
