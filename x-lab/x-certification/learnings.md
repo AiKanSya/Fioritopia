@@ -6,7 +6,7 @@
 
 - [x] [Developing with SAP Integration Suite](https://learning.sap.com/learning-journeys/developing-with-sap-integration-suite)
 
-#### 💮 SAP Certified Associate - Low-Code/No-Code Developer - SAP Build :
+#### 💮 SAP Certified Associate - Low-Code/No-Code Developer :
 
 - [x] [Creating Processes and Automations with SAP Build Process Automation](https://learning.sap.com/learning-journeys/create-processes-and-automations-with-sap-build-process-automation)
 
