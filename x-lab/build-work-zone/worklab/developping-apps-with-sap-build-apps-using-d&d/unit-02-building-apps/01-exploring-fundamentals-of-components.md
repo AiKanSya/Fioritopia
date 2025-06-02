@@ -16,7 +16,7 @@ L'UI définit ce que vous verrez et pourrez faire dans l'application. Elle défi
 
 Dans **SAP Build Apps**, les **Components** sont essentiels pour créer facilement et rapidement des applications qui répondent aux besoins les plus variés des entreprises et **enrich work processes**. En termes simples, les **Components** sont des **prefabricated code pieces** pouvant servir de blocs de construction avec des **pre-defined functions** pour concevoir l'UI et permettre au **bridge** d'utiliser la logique.
 
-![](./assets/U2_L1_**Components**.png)
+![](./assets/U2_L1_Components.png)
 
 Les **Components** peuvent être intégrés à tout type d'élément, comme des _buttons_, des _input fields_, _text areas_ ou des _images_. Il n'existe aucune limite quant à leur taille. Les plus petits **Components** peuvent être une _individual icon_ ou une _divider line_. Les plus grands **Components** peuvent être une _map component_ pour la géolocalisation ou un _lecteur vidéo_. Leur préfabrication favorise une expérience intuitive dans le champ visuel du développement et, grâce aux fonctionnalités fournies, offre de nombreuses possibilités de développement. Cependant, si des exigences spécifiques sont requises, les **Components** peuvent également être adaptés et construits en fonction de leur apparence et de leurs fonctionnalités.
 
@@ -28,7 +28,7 @@ Les **Components** de **SAP Build Apps** sont divisés en plusieurs sections sur
 
 Grâce au style, les **Components d'image et d'icône** permettent de concevoir une application conviviale ou plus ciblée. Les **Components de bouton** sont destinés à stimuler les interactions et à lancer des processus logiques. Avec les **Components de formulaire**, l'exemple d'application présenté dans l'exercice suivant illustre également que la plupart des **Components** sont fréquents et, combinés les uns aux autres, constituent souvent la base d'une interface utilisateur intuitive et dynamique.
 
-![](./assets/U2_Example_**Components**_notfinal.png)
+![](./assets/U2_Example_Components_notfinal.png)
 
 Les **Components de formulaire** permettent d'insérer des formes utiles dans l'application. Ils sont particulièrement utiles pour exploiter les informations utilisateur et permettre des interactions. Ils permettent à l'utilisateur de déclencher des actions simples ou plus complexes. Le composant le plus fréquemment utilisé est le _bouton_, prédestiné à déclencher une action en le sélectionnant, même si d'autres **Components**, connectés à la logique, peuvent également déclencher des actions en le sélectionnant.
 
@@ -50,7 +50,7 @@ Le type d'affichage des **Components** est varié : certains utilisent des _lis
 
 ## 🌸 LAYOUT COMPONENTS
 
-![](./assets/Layout_**Components**.png)
+![](./assets/Layout_Components.png)
 
 Par défaut, **SAP Build Apps** propose trois **Components de mise en page** qui vous permettent de concevoir des options supplémentaires pour la mise en page de l'interface utilisateur et de structurer les éléments. Vous pouvez simplement regrouper des **Components** ou effectuer des actions plus complexes, comme rendre les **Components d'un groupe** invisibles ou visibles après un déclenchement, comme une seule section à la fois. Ainsi, les **Components de mise en page** offrent des avantages supplémentaires pour la conception d'applications, tels que :
 

@@ -57,7 +57,7 @@ Cette procédure montre comment créer une ressource OData.
 
 Notez que cette procédure est orientée vers l'exemple de service OData standard, Northwind.
 
-![](./assets/https://learning.sap.com/learning-journeys/develop-apps-with-sap-build-apps-using-drag-and-drop-simplicity/using-odata-resources_ea7d8938-0ccb-4696-9780-9ac6aac88795)
+[Référence - Link Video](./assets/https://learning.sap.com/learning-journeys/develop-apps-with-sap-build-apps-using-drag-and-drop-simplicity/using-odata-resources_ea7d8938-0ccb-4696-9780-9ac6aac88795)
 
 ### STEP
 

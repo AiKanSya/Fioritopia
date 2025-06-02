@@ -18,7 +18,7 @@
 
 ![](./assets/APP400_01_U1L1_01_scr.png)
 
-## 🌸 KEY FEATURES OF `SAP BUILD APPS`
+## 🌸 KEY FEATURES OF SAP BUILD APPS
 
 ![](./assets/SAP_BTP_features_Static.png)
 

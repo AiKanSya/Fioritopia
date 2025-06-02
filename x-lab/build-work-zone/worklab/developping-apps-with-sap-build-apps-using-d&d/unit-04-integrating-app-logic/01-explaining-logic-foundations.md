@@ -26,7 +26,7 @@ Le potentiel de l'application logique réside notamment dans la combinaison des 
 
 ## 🌸 EVENTS
 
-![](./RESSOURCES/Events.png)
+![](./assets/Events.png)
 
 Lors de l'exécution d'une logique, on pense à l'appui sur un bouton dans le cas d'un déclencheur, notamment au vu des exemples évoqués précédemment. Appuyer sur un bouton ou un autre composant est un exemple d'événement pouvant déclencher l'exécution de diverses fonctions/actions. Cependant, les événements ne se limitent pas au clic d'un utilisateur sur un bouton. Le système peut également les activer de plusieurs manières, avec différents types de scénarios de démarrage.
 
