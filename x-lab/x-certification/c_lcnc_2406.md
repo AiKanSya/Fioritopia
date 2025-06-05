@@ -524,6 +524,7 @@ Dans SAP Build Apps, les layout components sont des éléments utilisés pour or
 Pourquoi les autres options ne sont pas correctes :
 
 - List Divider : Bien que le séparateur de liste soit utilisé pour diviser visuellement les éléments d'une liste, il n'est pas classé comme un composant de mise en page. Il sert principalement à améliorer la lisibilité et l'organisation des données au sein d'une liste.
+
 - Dropdown : Le menu déroulant est un composant interactif permettant à l'utilisateur de sélectionner une option parmi une liste. Il est classé comme un composant de formulaire ou d'entrée, et non comme un composant de mise en page.
 
 Conclusion :
