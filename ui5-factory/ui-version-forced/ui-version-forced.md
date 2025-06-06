@@ -13,7 +13,7 @@ src="https://ui5.sap.com/1.124.2/resources/sap-ui-core.js"
 ```
 
 <details>
-  <summary>Details</summary>
+  <summary>🍧 Details</summary>
 
 ```html
 <!DOCTYPE html>
@@ -64,7 +64,7 @@ src="https://ui5.sap.com/1.124.2/resources/sap-ui-core.js"
 ```
 
 <details>
-  <summary>Details</summary>
+  <summary>🍧 Details</summary>
 
 ```json
     "sap.platform.cf": {
@@ -125,7 +125,7 @@ Parameter Value:
 ```
 
 <details>
-  <summary>Details</summary>
+  <summary>🍧 Details</summary>
 
 ![](./assets/Capture%20d’écran%202025-06-05%20103240.png)
 
